@@ -3,6 +3,7 @@ html {
     font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
     font-weight: normal;
     font-size: 18px;
+    background-color: antiquewhite;
   }
 
 a {
@@ -59,9 +60,5 @@ ul, ol {
   stroke: #333;
   stroke-width: 2;
 }
-ellipse:hover {
-  stroke: red;
-  stroke-width: 3px;
-  transition: fill 0.4s;
-}
+
 
