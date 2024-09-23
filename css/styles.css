@@ -3,7 +3,7 @@ html {
     font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
     font-weight: normal;
     font-size: 18px;
-    background-color: antiquewhite;
+    background-color: white;
   }
 
 a {
@@ -52,6 +52,17 @@ ul, ol {
   text-align: justify;
   line-height: 1.5em;
 } 
+
+g {
+  pointer-events: bounding-box;
+  opacity: 1;
+}
+g:hover {
+    opacity: 0.5;
+}
+g:visited {
+  border-color: rgb(255, 172, 47);
+}
 
 #mapsection {
   width: 50%;
