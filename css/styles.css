@@ -53,14 +53,14 @@ ul, ol {
   line-height: 1.5em;
 } 
 
-g {
+g.predicament {
   pointer-events: bounding-box;
   opacity: 1;
 }
-g:hover {
+g.predicament:hover {
   opacity: 0.5;
 }
-g:visited {
+g.predicament:visited {
   stroke: rgb(255, 172, 47);
   stroke-width: 10px;
 }
