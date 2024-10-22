@@ -73,4 +73,29 @@ g.predicament:visited {
   stroke-width: 2;
 }
 
+.map {
+  overflow: auto;
+  position: fixed;
+  height: 100%;
+  width: 62.5%;
+  border: none;
+}
 
+.text {
+  position: fixed; 
+  right: 0%; 
+  top: 5%;
+  height: 100%;  
+  width: 35%; 
+  border: none; 
+  border-left: solid 2px rgb(53, 53, 53)
+}
+
+@media(max-width: 1000px) {
+  .map {
+    width: 0%;
+  }
+  .text {
+    width: 100%;
+  }
+}
