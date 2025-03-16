@@ -1,0 +1,2651 @@
+{
+  "vaultName": "tpl_obsidian",
+  "lastExport": 1742107370425,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "img/art.png",
+    "img/biodiversity.png",
+    "img/capitalism.png",
+    "img/climate_change.png",
+    "img/clock.png",
+    "img/collapse.png",
+    "img/complexity_mismatch.png",
+    "img/culturewar.png",
+    "img/death.png",
+    "img/death_of_creative.png",
+    "img/deforest.png",
+    "img/faema.png",
+    "img/Genocide_in_Gaza.png",
+    "img/GOing_outside.png",
+    "img/hand.png",
+    "img/hilma.png",
+    "img/ignorance_of_collapse.png",
+    "img/ignorance_of_the_mythical.png",
+    "img/industrial_slaughter.png",
+    "img/Ketamine_mentalhealth.png",
+    "img/kingcrown.png",
+    "img/max_power.png",
+    "img/middle_class.png",
+    "img/moloch.png",
+    "img/oil.png",
+    "img/over_reliance.png",
+    "img/planetary_boundaries.png",
+    "img/pollution_sunset.png",
+    "img/population_growth.png",
+    "img/quiet.png",
+    "img/realestate.png",
+    "img/seasons.png",
+    "img/sex.png",
+    "img/skyrim.png",
+    "img/solutionism.png",
+    "img/status.png",
+    "img/topographic.png",
+    "img/transportation.png",
+    "img/war.png",
+    "img/WIP.png",
+    "Predicaments/Acceleration.md",
+    "Predicaments/Access to food.md",
+    "Predicaments/Access to water.md",
+    "Predicaments/Addiction.md",
+    "Predicaments/Advertising.md",
+    "Predicaments/Agriculture.md",
+    "Predicaments/Air travel.md",
+    "Predicaments/Algorithmic curation.md",
+    "Predicaments/Ancient sunlight, old sunlight, current sunlight.md",
+    "Predicaments/Animal views.md",
+    "Predicaments/Apathy.md",
+    "Predicaments/Architecture.md",
+    "Predicaments/Art.md",
+    "Predicaments/Artificial intelligence.md",
+    "Predicaments/Attention hijacking.md",
+    "Predicaments/Avoiding radical options.md",
+    "Predicaments/Avoiding uncertainty.md",
+    "Predicaments/Being reasonable.md",
+    "Predicaments/Biased evidence selection.md",
+    "Predicaments/Big tech.md",
+    "Predicaments/Biodiversity loss.md",
+    "Predicaments/Blaming the people.md",
+    "Predicaments/Breakdown of information infrastructure.md",
+    "Predicaments/Bullshit jobs.md",
+    "Predicaments/Bureaucracy.md",
+    "Predicaments/Business-as-usual narrative.md",
+    "Predicaments/Capitalism.md",
+    "Predicaments/Car-centric design.md",
+    "Predicaments/Carbon fundamentalism.md",
+    "Predicaments/Carelessness.md",
+    "Predicaments/Cars.md",
+    "Predicaments/Catastrophic risks.md",
+    "Predicaments/Centralisation.md",
+    "Predicaments/Chasing happiness.md",
+    "Predicaments/Climate change.md",
+    "Predicaments/Climate footprints.md",
+    "Predicaments/Clock time.md",
+    "Predicaments/Cognitive dissonance.md",
+    "Predicaments/Colonialist narratives.md",
+    "Predicaments/Complexity mismatch.md",
+    "Predicaments/Constant connectivity.md",
+    "Predicaments/Consumerism.md",
+    "Predicaments/Cost of living.md",
+    "Predicaments/Craft.md",
+    "Predicaments/Culture wars.md",
+    "Predicaments/Data privacy.md",
+    "Predicaments/Dealing with death.md",
+    "Predicaments/Debt.md",
+    "Predicaments/Deforestation.md",
+    "Predicaments/Delusional domination of nature.md",
+    "Predicaments/Democracy failing.md",
+    "Predicaments/Desertification.md",
+    "Predicaments/Despair.md",
+    "Predicaments/Directionlessness.md",
+    "Predicaments/Discrimination.md",
+    "Predicaments/Disinformation.md",
+    "Predicaments/Dispositionism.md",
+    "Predicaments/Distractions.md",
+    "Predicaments/Dogmatism.md",
+    "Predicaments/Ecological crisis.md",
+    "Predicaments/Educational crisis.md",
+    "Predicaments/Educational systems.md",
+    "Predicaments/Ego.md",
+    "Predicaments/Elderly care.md",
+    "Predicaments/Electric vehicle solutions.md",
+    "Predicaments/Emotional crisis.md",
+    "Predicaments/End of history.md",
+    "Predicaments/Energy.md",
+    "Predicaments/Energy consumption increasing.md",
+    "Predicaments/Evil.md",
+    "Predicaments/Exponential technology.md",
+    "Predicaments/Extreme weather.md",
+    "Predicaments/Failure to take responsibility.md",
+    "Predicaments/Faulty meta-optimisation.md",
+    "Predicaments/Fear.md",
+    "Predicaments/Finite games.md",
+    "Predicaments/Genetic modification.md",
+    "Predicaments/Genocide.md",
+    "Predicaments/Global supply chains.md",
+    "Predicaments/Globalisation.md",
+    "Predicaments/Government.md",
+    "Predicaments/Greed.md",
+    "Predicaments/Greenwashing.md",
+    "Predicaments/Growth.md",
+    "Predicaments/Healthcare.md",
+    "Predicaments/Hedonism.md",
+    "Predicaments/Hemispherical asymmetry (Brain).md",
+    "Predicaments/Hemispherical asymmetry (Earth).md",
+    "Predicaments/Hobbesian views.md",
+    "Predicaments/Hyperstimuli.md",
+    "Predicaments/Identity.md",
+    "Predicaments/Ignorance of everything being sacred.md",
+    "Predicaments/Ignorance of interconnectedness.md",
+    "Predicaments/Ignorance of ongoing collapse.md",
+    "Predicaments/Ignorance of the mystical.md",
+    "Predicaments/Ignorance of the mythical.md",
+    "Predicaments/Ignored externalities.md",
+    "Predicaments/Ignoring complexity.md",
+    "Predicaments/Ignoring diversity.md",
+    "Predicaments/Illusion of competence.md",
+    "Predicaments/Illusion of GDP decoupling.md",
+    "Predicaments/Illusion of no option.md",
+    "Predicaments/Illusion of understanding.md",
+    "Predicaments/Immoral justifications.md",
+    "Predicaments/Imprisonment.md",
+    "Predicaments/Individualism.md",
+    "Predicaments/Industrial slaughter.md",
+    "Predicaments/Ineffective institutions.md",
+    "Predicaments/Inequality.md",
+    "Predicaments/Inertia.md",
+    "Predicaments/Information isn't knowledge.md",
+    "Predicaments/Insect loss.md",
+    "Predicaments/Investing.md",
+    "Predicaments/Jevons paradox.md",
+    "Predicaments/Knowledge isn't wisdom.md",
+    "Predicaments/Lack of a living world view.md",
+    "Predicaments/Lack of agency.md",
+    "Predicaments/Lack of attentiveness.md",
+    "Predicaments/Lack of balance.md",
+    "Predicaments/Lack of belonging.md",
+    "Predicaments/Lack of communities.md",
+    "Predicaments/Lack of compassion.md",
+    "Predicaments/Lack of cultural control systems.md",
+    "Predicaments/Lack of dark spaces.md",
+    "Predicaments/Lack of empathy.md",
+    "Predicaments/Lack of faith in anything.md",
+    "Predicaments/Lack of feeling needed.md",
+    "Predicaments/Lack of historical insight.md",
+    "Predicaments/Lack of humility.md",
+    "Predicaments/Lack of love.md",
+    "Predicaments/Lack of masculine and feminine.md",
+    "Predicaments/Lack of purpose.md",
+    "Predicaments/Lack of quiet spaces.md",
+    "Predicaments/Lack of resilient systems.md",
+    "Predicaments/Lack of systems thinking.md",
+    "Predicaments/Lack of the longterm.md",
+    "Predicaments/Lack of time.md",
+    "Predicaments/Lack of visions.md",
+    "Predicaments/Language.md",
+    "Predicaments/Laws.md",
+    "Predicaments/LGBTQ+.md",
+    "Predicaments/Limits to growth.md",
+    "Predicaments/Lobbyism.md",
+    "Predicaments/Loneliness.md",
+    "Predicaments/Loss of cultural complexity.md",
+    "Predicaments/Madness of safety.md",
+    "Predicaments/Malnutrition.md",
+    "Predicaments/Map and territory.md",
+    "Predicaments/Mass climate migration.md",
+    "Predicaments/Material extraction.md",
+    "Predicaments/Maximum power principle.md",
+    "Predicaments/Meaning crisis.md",
+    "Predicaments/Meat eating.md",
+    "Predicaments/Mental health.md",
+    "Predicaments/Microplastics.md",
+    "Predicaments/Migration.md",
+    "Predicaments/Mind-body separation.md",
+    "Predicaments/Misinformation.md",
+    "Predicaments/Missing elders.md",
+    "Predicaments/Mistreatment of animals.md",
+    "Predicaments/Mistreatment of other humans.md",
+    "Predicaments/Modern slavery.md",
+    "Predicaments/Moloch.md",
+    "Predicaments/Monocultures (agriculture).md",
+    "Predicaments/Monocultures (people).md",
+    "Predicaments/Monopolies.md",
+    "Predicaments/Multipolar traps.md",
+    "Predicaments/Naive progress narrative.md",
+    "Predicaments/Naive techno-optimism.md",
+    "Predicaments/Naive techno-pessimism.md",
+    "Predicaments/National borders.md",
+    "Predicaments/Net negative caloric extraction.md",
+    "Predicaments/News.md",
+    "Predicaments/Nihilism.md",
+    "Predicaments/No precautionary principle.md",
+    "Predicaments/No respect for indigenous wisdom.md",
+    "Predicaments/No value in maintenance.md",
+    "Predicaments/Nothing is local.md",
+    "Predicaments/Nuclear war.md",
+    "Predicaments/Obesity.md",
+    "Predicaments/Ocean acidification.md",
+    "Predicaments/Only 'can we' never 'should we'.md",
+    "Predicaments/Oppressive tyrannies for the good of its victims.md",
+    "Predicaments/Out of touch with seasons.md",
+    "Predicaments/Over-reliance on technology.md",
+    "Predicaments/Pandemics.md",
+    "Predicaments/Parenting.md",
+    "Predicaments/Planetary boundaries.md",
+    "Predicaments/Poisoning the water, the earth, the air.md",
+    "Predicaments/Polarisation.md",
+    "Predicaments/Pollution.md",
+    "Predicaments/Population growth.md",
+    "Predicaments/Populations entering the 'middle class'.md",
+    "Predicaments/Poverty.md",
+    "Predicaments/Power concentration to the wrong people.md",
+    "Predicaments/Profit.md",
+    "Predicaments/Propaganda.md",
+    "Predicaments/Public transport.md",
+    "Predicaments/Quality.md",
+    "Predicaments/Quantification.md",
+    "Predicaments/Racism.md",
+    "Predicaments/Rationalism.md",
+    "Predicaments/Reductionism.md",
+    "Predicaments/Resource conflicts.md",
+    "Predicaments/Resources.md",
+    "Predicaments/Sameness.md",
+    "Predicaments/Scientism.md",
+    "Predicaments/Sedentary lifestyles.md",
+    "Predicaments/Selfishness.md",
+    "Predicaments/Sense-making crisis.md",
+    "Predicaments/Sex and sexuality.md",
+    "Predicaments/Sexism.md",
+    "Predicaments/Signal-to-noise ratio.md",
+    "Predicaments/Simplifications.md",
+    "Predicaments/Slow change.md",
+    "Predicaments/Social erosion.md",
+    "Predicaments/Social media.md",
+    "Predicaments/Soil erosion.md",
+    "Predicaments/Solutionism.md",
+    "Predicaments/Spiritual metacrisis.md",
+    "Predicaments/Status.md",
+    "Predicaments/Story of separation.md",
+    "Predicaments/Suicide.md",
+    "Predicaments/Surveillance.md",
+    "Predicaments/Sustainable growth.md",
+    "Predicaments/Synthetic biology.md",
+    "Predicaments/The Dark Triad.md",
+    "Predicaments/The death of creative work.md",
+    "Predicaments/The desacration of all places.md",
+    "Predicaments/The impossibility of UBI.md",
+    "Predicaments/The minimisation of all things wild.md",
+    "Predicaments/The spectacle.md",
+    "Predicaments/Tipping points.md",
+    "Predicaments/Too much speed and noise.md",
+    "Predicaments/Traffic noise.md",
+    "Predicaments/Tragedy of the vanishing commons.md",
+    "Predicaments/Transportation infrastructure.md",
+    "Predicaments/Travel.md",
+    "Predicaments/Unbalanced longtermism.md",
+    "Predicaments/Unemployment.md",
+    "Predicaments/Unheeded warnings.md",
+    "Predicaments/Unpaid important labour.md",
+    "Predicaments/Views on human nature.md",
+    "Predicaments/Violence.md",
+    "Predicaments/Virtue signalling.md",
+    "Predicaments/War.md",
+    "Predicaments/Waste.md",
+    "Predicaments/Weber's iron cage.md",
+    "Predicaments/Wisdom crisis.md",
+    "Predicaments/Yuppie dystopia.md",
+    "Updates/2024-10-22.md",
+    "Updates/2024-11-19.md",
+    "Updates/2024-12-04.md",
+    "Updates/2025-01-09.md",
+    "Updates/2025-01-19.md",
+    "About.md",
+    "The Overlay.md",
+    "The Predicament Landscape.md",
+    "lib/media/oil.png",
+    "lib/media/art.png",
+    "lib/media/biodiversity.png",
+    "lib/media/ketamine_mentalhealth.png",
+    "lib/media/capitalism.png",
+    "lib/media/climate_change.png",
+    "lib/media/clock.png",
+    "lib/media/ignorance_of_collapse.png",
+    "lib/media/complexity_mismatch.png",
+    "lib/media/culturewar.png",
+    "lib/media/death.png",
+    "lib/media/deforest.png",
+    "lib/media/genocide_in_gaza.png",
+    "lib/media/collapse.png",
+    "lib/media/ignorance_of_the_mythical.png",
+    "lib/media/hand.png",
+    "lib/media/industrial_slaughter.png",
+    "lib/media/quiet.png",
+    "lib/media/seasons.png",
+    "lib/media/max_power.png",
+    "lib/media/over_reliance.png",
+    "lib/media/planetary_boundaries.png",
+    "lib/media/pollution_sunset.png",
+    "lib/media/population_growth.png",
+    "lib/media/middle_class.png",
+    "lib/media/going_outside.png",
+    "lib/media/sex.png",
+    "lib/media/solutionism.png",
+    "lib/media/status.png",
+    "lib/media/death_of_creative.png",
+    "lib/media/transportation.png",
+    "lib/media/war.png",
+    "lib/media/realestate.png",
+    "lib/media/skyrim.png",
+    "lib/media/topographic.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "img/art.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 175107,
+      "exportedPath": "img/art.png",
+      "dependencies": []
+    },
+    "img/biodiversity.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 101153,
+      "exportedPath": "img/biodiversity.png",
+      "dependencies": []
+    },
+    "img/capitalism.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 190856,
+      "exportedPath": "img/capitalism.png",
+      "dependencies": []
+    },
+    "img/climate_change.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 94550,
+      "exportedPath": "img/climate_change.png",
+      "dependencies": []
+    },
+    "img/clock.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 130225,
+      "exportedPath": "img/clock.png",
+      "dependencies": []
+    },
+    "img/collapse.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 158680,
+      "exportedPath": "img/collapse.png",
+      "dependencies": []
+    },
+    "img/complexity_mismatch.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 154917,
+      "exportedPath": "img/complexity_mismatch.png",
+      "dependencies": []
+    },
+    "img/culturewar.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 19728,
+      "exportedPath": "img/culturewar.png",
+      "dependencies": []
+    },
+    "img/death.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 110187,
+      "exportedPath": "img/death.png",
+      "dependencies": []
+    },
+    "img/death_of_creative.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 77628,
+      "exportedPath": "img/death_of_creative.png",
+      "dependencies": []
+    },
+    "img/deforest.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 215990,
+      "exportedPath": "img/deforest.png",
+      "dependencies": []
+    },
+    "img/faema.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 163190,
+      "exportedPath": "img/faema.png",
+      "dependencies": []
+    },
+    "img/Genocide_in_Gaza.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 75052,
+      "exportedPath": "img/genocide_in_gaza.png",
+      "dependencies": []
+    },
+    "img/GOing_outside.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1107104,
+      "exportedPath": "img/going_outside.png",
+      "dependencies": []
+    },
+    "img/hand.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 120723,
+      "exportedPath": "img/hand.png",
+      "dependencies": []
+    },
+    "img/hilma.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 752945,
+      "exportedPath": "img/hilma.png",
+      "dependencies": []
+    },
+    "img/ignorance_of_collapse.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 110287,
+      "exportedPath": "img/ignorance_of_collapse.png",
+      "dependencies": []
+    },
+    "img/ignorance_of_the_mythical.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 112156,
+      "exportedPath": "img/ignorance_of_the_mythical.png",
+      "dependencies": []
+    },
+    "img/industrial_slaughter.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 103198,
+      "exportedPath": "img/industrial_slaughter.png",
+      "dependencies": []
+    },
+    "img/Ketamine_mentalhealth.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 204117,
+      "exportedPath": "img/ketamine_mentalhealth.png",
+      "dependencies": []
+    },
+    "img/kingcrown.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 763924,
+      "exportedPath": "img/kingcrown.png",
+      "dependencies": []
+    },
+    "img/max_power.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 135033,
+      "exportedPath": "img/max_power.png",
+      "dependencies": []
+    },
+    "img/middle_class.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 173329,
+      "exportedPath": "img/middle_class.png",
+      "dependencies": []
+    },
+    "img/moloch.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 322372,
+      "exportedPath": "img/moloch.png",
+      "dependencies": []
+    },
+    "img/oil.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 126536,
+      "exportedPath": "img/oil.png",
+      "dependencies": []
+    },
+    "img/over_reliance.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 118674,
+      "exportedPath": "img/over_reliance.png",
+      "dependencies": []
+    },
+    "img/planetary_boundaries.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1177006,
+      "exportedPath": "img/planetary_boundaries.png",
+      "dependencies": []
+    },
+    "img/pollution_sunset.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 110105,
+      "exportedPath": "img/pollution_sunset.png",
+      "dependencies": []
+    },
+    "img/population_growth.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 372719,
+      "exportedPath": "img/population_growth.png",
+      "dependencies": []
+    },
+    "img/quiet.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 32238,
+      "exportedPath": "img/quiet.png",
+      "dependencies": []
+    },
+    "img/realestate.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 64997,
+      "exportedPath": "img/realestate.png",
+      "dependencies": []
+    },
+    "img/seasons.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 23601,
+      "exportedPath": "img/seasons.png",
+      "dependencies": []
+    },
+    "img/sex.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 70351,
+      "exportedPath": "img/sex.png",
+      "dependencies": []
+    },
+    "img/skyrim.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 82644,
+      "exportedPath": "img/skyrim.png",
+      "dependencies": []
+    },
+    "img/solutionism.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 28657,
+      "exportedPath": "img/solutionism.png",
+      "dependencies": []
+    },
+    "img/status.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 101800,
+      "exportedPath": "img/status.png",
+      "dependencies": []
+    },
+    "img/topographic.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 114572,
+      "exportedPath": "img/topographic.png",
+      "dependencies": []
+    },
+    "img/transportation.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 58625,
+      "exportedPath": "img/transportation.png",
+      "dependencies": []
+    },
+    "img/war.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 97490,
+      "exportedPath": "img/war.png",
+      "dependencies": []
+    },
+    "img/WIP.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 557267,
+      "exportedPath": "img/wip.png",
+      "dependencies": []
+    },
+    "Predicaments/Acceleration.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3544,
+      "exportedPath": "predicaments/acceleration.html",
+      "dependencies": []
+    },
+    "Predicaments/Access to food.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 8118,
+      "exportedPath": "predicaments/access-to-food.html",
+      "dependencies": []
+    },
+    "Predicaments/Access to water.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4604,
+      "exportedPath": "predicaments/access-to-water.html",
+      "dependencies": []
+    },
+    "Predicaments/Addiction.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1198,
+      "exportedPath": "predicaments/addiction.html",
+      "dependencies": []
+    },
+    "Predicaments/Advertising.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 777,
+      "exportedPath": "predicaments/advertising.html",
+      "dependencies": []
+    },
+    "Predicaments/Agriculture.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2972,
+      "exportedPath": "predicaments/agriculture.html",
+      "dependencies": []
+    },
+    "Predicaments/Air travel.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1189,
+      "exportedPath": "predicaments/air-travel.html",
+      "dependencies": []
+    },
+    "Predicaments/Algorithmic curation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1389,
+      "exportedPath": "predicaments/algorithmic-curation.html",
+      "dependencies": []
+    },
+    "Predicaments/Ancient sunlight, old sunlight, current sunlight.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 451,
+      "exportedPath": "predicaments/ancient-sunlight,-old-sunlight,-current-sunlight.html",
+      "dependencies": [
+        "lib/media/oil.png"
+      ]
+    },
+    "Predicaments/Animal views.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1217,
+      "exportedPath": "predicaments/animal-views.html",
+      "dependencies": []
+    },
+    "Predicaments/Apathy.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 770,
+      "exportedPath": "predicaments/apathy.html",
+      "dependencies": []
+    },
+    "Predicaments/Architecture.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1709,
+      "exportedPath": "predicaments/architecture.html",
+      "dependencies": []
+    },
+    "Predicaments/Art.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1196,
+      "exportedPath": "predicaments/art.html",
+      "dependencies": [
+        "lib/media/art.png"
+      ]
+    },
+    "Predicaments/Artificial intelligence.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1507,
+      "exportedPath": "predicaments/artificial-intelligence.html",
+      "dependencies": []
+    },
+    "Predicaments/Attention hijacking.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1236,
+      "exportedPath": "predicaments/attention-hijacking.html",
+      "dependencies": []
+    },
+    "Predicaments/Avoiding radical options.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1048,
+      "exportedPath": "predicaments/avoiding-radical-options.html",
+      "dependencies": []
+    },
+    "Predicaments/Avoiding uncertainty.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 952,
+      "exportedPath": "predicaments/avoiding-uncertainty.html",
+      "dependencies": []
+    },
+    "Predicaments/Being reasonable.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1230,
+      "exportedPath": "predicaments/being-reasonable.html",
+      "dependencies": []
+    },
+    "Predicaments/Biased evidence selection.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2973,
+      "exportedPath": "predicaments/biased-evidence-selection.html",
+      "dependencies": []
+    },
+    "Predicaments/Big tech.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1050,
+      "exportedPath": "predicaments/big-tech.html",
+      "dependencies": []
+    },
+    "Predicaments/Biodiversity loss.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 5442,
+      "exportedPath": "predicaments/biodiversity-loss.html",
+      "dependencies": [
+        "lib/media/biodiversity.png"
+      ]
+    },
+    "Predicaments/Blaming the people.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1246,
+      "exportedPath": "predicaments/blaming-the-people.html",
+      "dependencies": []
+    },
+    "Predicaments/Breakdown of information infrastructure.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1307,
+      "exportedPath": "predicaments/breakdown-of-information-infrastructure.html",
+      "dependencies": []
+    },
+    "Predicaments/Bullshit jobs.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2595,
+      "exportedPath": "predicaments/bullshit-jobs.html",
+      "dependencies": [
+        "lib/media/ketamine_mentalhealth.png"
+      ]
+    },
+    "Predicaments/Bureaucracy.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1294,
+      "exportedPath": "predicaments/bureaucracy.html",
+      "dependencies": []
+    },
+    "Predicaments/Business-as-usual narrative.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1811,
+      "exportedPath": "predicaments/business-as-usual-narrative.html",
+      "dependencies": []
+    },
+    "Predicaments/Capitalism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3196,
+      "exportedPath": "predicaments/capitalism.html",
+      "dependencies": [
+        "lib/media/capitalism.png"
+      ]
+    },
+    "Predicaments/Car-centric design.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1319,
+      "exportedPath": "predicaments/car-centric-design.html",
+      "dependencies": []
+    },
+    "Predicaments/Carbon fundamentalism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1710,
+      "exportedPath": "predicaments/carbon-fundamentalism.html",
+      "dependencies": []
+    },
+    "Predicaments/Carelessness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1330,
+      "exportedPath": "predicaments/carelessness.html",
+      "dependencies": []
+    },
+    "Predicaments/Cars.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1582,
+      "exportedPath": "predicaments/cars.html",
+      "dependencies": []
+    },
+    "Predicaments/Catastrophic risks.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1180,
+      "exportedPath": "predicaments/catastrophic-risks.html",
+      "dependencies": []
+    },
+    "Predicaments/Centralisation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1471,
+      "exportedPath": "predicaments/centralisation.html",
+      "dependencies": []
+    },
+    "Predicaments/Chasing happiness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 604,
+      "exportedPath": "predicaments/chasing-happiness.html",
+      "dependencies": []
+    },
+    "Predicaments/Climate change.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 8089,
+      "exportedPath": "predicaments/climate-change.html",
+      "dependencies": [
+        "lib/media/climate_change.png"
+      ]
+    },
+    "Predicaments/Climate footprints.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1157,
+      "exportedPath": "predicaments/climate-footprints.html",
+      "dependencies": []
+    },
+    "Predicaments/Clock time.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3207,
+      "exportedPath": "predicaments/clock-time.html",
+      "dependencies": [
+        "lib/media/clock.png"
+      ]
+    },
+    "Predicaments/Cognitive dissonance.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1749,
+      "exportedPath": "predicaments/cognitive-dissonance.html",
+      "dependencies": [
+        "lib/media/ignorance_of_collapse.png"
+      ]
+    },
+    "Predicaments/Colonialist narratives.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1271,
+      "exportedPath": "predicaments/colonialist-narratives.html",
+      "dependencies": []
+    },
+    "Predicaments/Complexity mismatch.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1611,
+      "exportedPath": "predicaments/complexity-mismatch.html",
+      "dependencies": [
+        "lib/media/complexity_mismatch.png"
+      ]
+    },
+    "Predicaments/Constant connectivity.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 763,
+      "exportedPath": "predicaments/constant-connectivity.html",
+      "dependencies": []
+    },
+    "Predicaments/Consumerism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1068,
+      "exportedPath": "predicaments/consumerism.html",
+      "dependencies": []
+    },
+    "Predicaments/Cost of living.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1152,
+      "exportedPath": "predicaments/cost-of-living.html",
+      "dependencies": []
+    },
+    "Predicaments/Craft.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1498,
+      "exportedPath": "predicaments/craft.html",
+      "dependencies": []
+    },
+    "Predicaments/Culture wars.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1122,
+      "exportedPath": "predicaments/culture-wars.html",
+      "dependencies": [
+        "lib/media/culturewar.png"
+      ]
+    },
+    "Predicaments/Data privacy.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1073,
+      "exportedPath": "predicaments/data-privacy.html",
+      "dependencies": []
+    },
+    "Predicaments/Dealing with death.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 815,
+      "exportedPath": "predicaments/dealing-with-death.html",
+      "dependencies": [
+        "lib/media/death.png"
+      ]
+    },
+    "Predicaments/Debt.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1754,
+      "exportedPath": "predicaments/debt.html",
+      "dependencies": []
+    },
+    "Predicaments/Deforestation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 6344,
+      "exportedPath": "predicaments/deforestation.html",
+      "dependencies": [
+        "lib/media/deforest.png"
+      ]
+    },
+    "Predicaments/Delusional domination of nature.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 745,
+      "exportedPath": "predicaments/delusional-domination-of-nature.html",
+      "dependencies": []
+    },
+    "Predicaments/Democracy failing.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1903,
+      "exportedPath": "predicaments/democracy-failing.html",
+      "dependencies": []
+    },
+    "Predicaments/Desertification.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4499,
+      "exportedPath": "predicaments/desertification.html",
+      "dependencies": []
+    },
+    "Predicaments/Despair.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 668,
+      "exportedPath": "predicaments/despair.html",
+      "dependencies": []
+    },
+    "Predicaments/Directionlessness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 934,
+      "exportedPath": "predicaments/directionlessness.html",
+      "dependencies": []
+    },
+    "Predicaments/Discrimination.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 820,
+      "exportedPath": "predicaments/discrimination.html",
+      "dependencies": []
+    },
+    "Predicaments/Disinformation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3618,
+      "exportedPath": "predicaments/disinformation.html",
+      "dependencies": []
+    },
+    "Predicaments/Dispositionism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1107,
+      "exportedPath": "predicaments/dispositionism.html",
+      "dependencies": []
+    },
+    "Predicaments/Distractions.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 882,
+      "exportedPath": "predicaments/distractions.html",
+      "dependencies": []
+    },
+    "Predicaments/Dogmatism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 767,
+      "exportedPath": "predicaments/dogmatism.html",
+      "dependencies": []
+    },
+    "Predicaments/Ecological crisis.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 8885,
+      "exportedPath": "predicaments/ecological-crisis.html",
+      "dependencies": []
+    },
+    "Predicaments/Educational crisis.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1228,
+      "exportedPath": "predicaments/educational-crisis.html",
+      "dependencies": []
+    },
+    "Predicaments/Educational systems.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 890,
+      "exportedPath": "predicaments/educational-systems.html",
+      "dependencies": []
+    },
+    "Predicaments/Ego.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 674,
+      "exportedPath": "predicaments/ego.html",
+      "dependencies": []
+    },
+    "Predicaments/Elderly care.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1032,
+      "exportedPath": "predicaments/elderly-care.html",
+      "dependencies": []
+    },
+    "Predicaments/Electric vehicle solutions.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1227,
+      "exportedPath": "predicaments/electric-vehicle-solutions.html",
+      "dependencies": []
+    },
+    "Predicaments/Emotional crisis.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 735,
+      "exportedPath": "predicaments/emotional-crisis.html",
+      "dependencies": []
+    },
+    "Predicaments/End of history.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1397,
+      "exportedPath": "predicaments/end-of-history.html",
+      "dependencies": []
+    },
+    "Predicaments/Energy.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1428,
+      "exportedPath": "predicaments/energy.html",
+      "dependencies": []
+    },
+    "Predicaments/Energy consumption increasing.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 846,
+      "exportedPath": "predicaments/energy-consumption-increasing.html",
+      "dependencies": []
+    },
+    "Predicaments/Evil.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4185,
+      "exportedPath": "predicaments/evil.html",
+      "dependencies": []
+    },
+    "Predicaments/Exponential technology.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1022,
+      "exportedPath": "predicaments/exponential-technology.html",
+      "dependencies": []
+    },
+    "Predicaments/Extreme weather.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3402,
+      "exportedPath": "predicaments/extreme-weather.html",
+      "dependencies": []
+    },
+    "Predicaments/Failure to take responsibility.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2107,
+      "exportedPath": "predicaments/failure-to-take-responsibility.html",
+      "dependencies": []
+    },
+    "Predicaments/Faulty meta-optimisation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1720,
+      "exportedPath": "predicaments/faulty-meta-optimisation.html",
+      "dependencies": []
+    },
+    "Predicaments/Fear.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1068,
+      "exportedPath": "predicaments/fear.html",
+      "dependencies": []
+    },
+    "Predicaments/Finite games.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1628,
+      "exportedPath": "predicaments/finite-games.html",
+      "dependencies": []
+    },
+    "Predicaments/Genetic modification.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 615,
+      "exportedPath": "predicaments/genetic-modification.html",
+      "dependencies": []
+    },
+    "Predicaments/Genocide.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3771,
+      "exportedPath": "predicaments/genocide.html",
+      "dependencies": [
+        "lib/media/genocide_in_gaza.png"
+      ]
+    },
+    "Predicaments/Global supply chains.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 956,
+      "exportedPath": "predicaments/global-supply-chains.html",
+      "dependencies": []
+    },
+    "Predicaments/Globalisation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1021,
+      "exportedPath": "predicaments/globalisation.html",
+      "dependencies": []
+    },
+    "Predicaments/Government.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1411,
+      "exportedPath": "predicaments/government.html",
+      "dependencies": []
+    },
+    "Predicaments/Greed.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 757,
+      "exportedPath": "predicaments/greed.html",
+      "dependencies": []
+    },
+    "Predicaments/Greenwashing.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 995,
+      "exportedPath": "predicaments/greenwashing.html",
+      "dependencies": []
+    },
+    "Predicaments/Growth.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1827,
+      "exportedPath": "predicaments/growth.html",
+      "dependencies": []
+    },
+    "Predicaments/Healthcare.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2508,
+      "exportedPath": "predicaments/healthcare.html",
+      "dependencies": []
+    },
+    "Predicaments/Hedonism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1311,
+      "exportedPath": "predicaments/hedonism.html",
+      "dependencies": []
+    },
+    "Predicaments/Hemispherical asymmetry (Brain).md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2623,
+      "exportedPath": "predicaments/hemispherical-asymmetry-(brain).html",
+      "dependencies": []
+    },
+    "Predicaments/Hemispherical asymmetry (Earth).md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1662,
+      "exportedPath": "predicaments/hemispherical-asymmetry-(earth).html",
+      "dependencies": []
+    },
+    "Predicaments/Hobbesian views.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1386,
+      "exportedPath": "predicaments/hobbesian-views.html",
+      "dependencies": []
+    },
+    "Predicaments/Hyperstimuli.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1232,
+      "exportedPath": "predicaments/hyperstimuli.html",
+      "dependencies": []
+    },
+    "Predicaments/Identity.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 976,
+      "exportedPath": "predicaments/identity.html",
+      "dependencies": []
+    },
+    "Predicaments/Ignorance of everything being sacred.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1437,
+      "exportedPath": "predicaments/ignorance-of-everything-being-sacred.html",
+      "dependencies": []
+    },
+    "Predicaments/Ignorance of interconnectedness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 859,
+      "exportedPath": "predicaments/ignorance-of-interconnectedness.html",
+      "dependencies": []
+    },
+    "Predicaments/Ignorance of ongoing collapse.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2660,
+      "exportedPath": "predicaments/ignorance-of-ongoing-collapse.html",
+      "dependencies": [
+        "lib/media/collapse.png"
+      ]
+    },
+    "Predicaments/Ignorance of the mystical.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1673,
+      "exportedPath": "predicaments/ignorance-of-the-mystical.html",
+      "dependencies": []
+    },
+    "Predicaments/Ignorance of the mythical.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1280,
+      "exportedPath": "predicaments/ignorance-of-the-mythical.html",
+      "dependencies": [
+        "lib/media/ignorance_of_the_mythical.png"
+      ]
+    },
+    "Predicaments/Ignored externalities.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1321,
+      "exportedPath": "predicaments/ignored-externalities.html",
+      "dependencies": []
+    },
+    "Predicaments/Ignoring complexity.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1091,
+      "exportedPath": "predicaments/ignoring-complexity.html",
+      "dependencies": []
+    },
+    "Predicaments/Ignoring diversity.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1351,
+      "exportedPath": "predicaments/ignoring-diversity.html",
+      "dependencies": []
+    },
+    "Predicaments/Illusion of competence.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1293,
+      "exportedPath": "predicaments/illusion-of-competence.html",
+      "dependencies": []
+    },
+    "Predicaments/Illusion of GDP decoupling.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 909,
+      "exportedPath": "predicaments/illusion-of-gdp-decoupling.html",
+      "dependencies": []
+    },
+    "Predicaments/Illusion of no option.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1179,
+      "exportedPath": "predicaments/illusion-of-no-option.html",
+      "dependencies": []
+    },
+    "Predicaments/Illusion of understanding.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1162,
+      "exportedPath": "predicaments/illusion-of-understanding.html",
+      "dependencies": [
+        "lib/media/hand.png"
+      ]
+    },
+    "Predicaments/Immoral justifications.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 980,
+      "exportedPath": "predicaments/immoral-justifications.html",
+      "dependencies": []
+    },
+    "Predicaments/Imprisonment.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 847,
+      "exportedPath": "predicaments/imprisonment.html",
+      "dependencies": []
+    },
+    "Predicaments/Individualism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 750,
+      "exportedPath": "predicaments/individualism.html",
+      "dependencies": []
+    },
+    "Predicaments/Industrial slaughter.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 11084,
+      "exportedPath": "predicaments/industrial-slaughter.html",
+      "dependencies": [
+        "lib/media/industrial_slaughter.png"
+      ]
+    },
+    "Predicaments/Ineffective institutions.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 925,
+      "exportedPath": "predicaments/ineffective-institutions.html",
+      "dependencies": []
+    },
+    "Predicaments/Inequality.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1332,
+      "exportedPath": "predicaments/inequality.html",
+      "dependencies": []
+    },
+    "Predicaments/Inertia.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1120,
+      "exportedPath": "predicaments/inertia.html",
+      "dependencies": []
+    },
+    "Predicaments/Information isn't knowledge.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1536,
+      "exportedPath": "predicaments/information-isn't-knowledge.html",
+      "dependencies": []
+    },
+    "Predicaments/Insect loss.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4176,
+      "exportedPath": "predicaments/insect-loss.html",
+      "dependencies": []
+    },
+    "Predicaments/Investing.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1225,
+      "exportedPath": "predicaments/investing.html",
+      "dependencies": []
+    },
+    "Predicaments/Jevons paradox.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1127,
+      "exportedPath": "predicaments/jevons-paradox.html",
+      "dependencies": []
+    },
+    "Predicaments/Knowledge isn't wisdom.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1053,
+      "exportedPath": "predicaments/knowledge-isn't-wisdom.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of a living world view.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1321,
+      "exportedPath": "predicaments/lack-of-a-living-world-view.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of agency.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1253,
+      "exportedPath": "predicaments/lack-of-agency.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of attentiveness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 612,
+      "exportedPath": "predicaments/lack-of-attentiveness.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of balance.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1103,
+      "exportedPath": "predicaments/lack-of-balance.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of belonging.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 880,
+      "exportedPath": "predicaments/lack-of-belonging.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of communities.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 929,
+      "exportedPath": "predicaments/lack-of-communities.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of compassion.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 897,
+      "exportedPath": "predicaments/lack-of-compassion.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of cultural control systems.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 923,
+      "exportedPath": "predicaments/lack-of-cultural-control-systems.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of dark spaces.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1247,
+      "exportedPath": "predicaments/lack-of-dark-spaces.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of empathy.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 580,
+      "exportedPath": "predicaments/lack-of-empathy.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of faith in anything.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1236,
+      "exportedPath": "predicaments/lack-of-faith-in-anything.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of feeling needed.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 496,
+      "exportedPath": "predicaments/lack-of-feeling-needed.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of historical insight.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1025,
+      "exportedPath": "predicaments/lack-of-historical-insight.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of humility.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 938,
+      "exportedPath": "predicaments/lack-of-humility.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of love.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1885,
+      "exportedPath": "predicaments/lack-of-love.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of masculine and feminine.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 793,
+      "exportedPath": "predicaments/lack-of-masculine-and-feminine.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of purpose.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1849,
+      "exportedPath": "predicaments/lack-of-purpose.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of quiet spaces.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1641,
+      "exportedPath": "predicaments/lack-of-quiet-spaces.html",
+      "dependencies": [
+        "lib/media/quiet.png"
+      ]
+    },
+    "Predicaments/Lack of resilient systems.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1630,
+      "exportedPath": "predicaments/lack-of-resilient-systems.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of systems thinking.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1994,
+      "exportedPath": "predicaments/lack-of-systems-thinking.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of the longterm.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 6617,
+      "exportedPath": "predicaments/lack-of-the-longterm.html",
+      "dependencies": [
+        "lib/media/seasons.png"
+      ]
+    },
+    "Predicaments/Lack of time.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1764,
+      "exportedPath": "predicaments/lack-of-time.html",
+      "dependencies": []
+    },
+    "Predicaments/Lack of visions.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1456,
+      "exportedPath": "predicaments/lack-of-visions.html",
+      "dependencies": []
+    },
+    "Predicaments/Language.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1259,
+      "exportedPath": "predicaments/language.html",
+      "dependencies": []
+    },
+    "Predicaments/Laws.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1350,
+      "exportedPath": "predicaments/laws.html",
+      "dependencies": []
+    },
+    "Predicaments/LGBTQ+.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 982,
+      "exportedPath": "predicaments/lgbtq+.html",
+      "dependencies": []
+    },
+    "Predicaments/Limits to growth.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3647,
+      "exportedPath": "predicaments/limits-to-growth.html",
+      "dependencies": []
+    },
+    "Predicaments/Lobbyism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 768,
+      "exportedPath": "predicaments/lobbyism.html",
+      "dependencies": []
+    },
+    "Predicaments/Loneliness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 740,
+      "exportedPath": "predicaments/loneliness.html",
+      "dependencies": []
+    },
+    "Predicaments/Loss of cultural complexity.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1162,
+      "exportedPath": "predicaments/loss-of-cultural-complexity.html",
+      "dependencies": []
+    },
+    "Predicaments/Madness of safety.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 634,
+      "exportedPath": "predicaments/madness-of-safety.html",
+      "dependencies": []
+    },
+    "Predicaments/Malnutrition.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1084,
+      "exportedPath": "predicaments/malnutrition.html",
+      "dependencies": []
+    },
+    "Predicaments/Map and territory.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2467,
+      "exportedPath": "predicaments/map-and-territory.html",
+      "dependencies": []
+    },
+    "Predicaments/Mass climate migration.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 975,
+      "exportedPath": "predicaments/mass-climate-migration.html",
+      "dependencies": []
+    },
+    "Predicaments/Material extraction.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 703,
+      "exportedPath": "predicaments/material-extraction.html",
+      "dependencies": []
+    },
+    "Predicaments/Maximum power principle.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1149,
+      "exportedPath": "predicaments/maximum-power-principle.html",
+      "dependencies": [
+        "lib/media/max_power.png"
+      ]
+    },
+    "Predicaments/Meaning crisis.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1180,
+      "exportedPath": "predicaments/meaning-crisis.html",
+      "dependencies": []
+    },
+    "Predicaments/Meat eating.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2030,
+      "exportedPath": "predicaments/meat-eating.html",
+      "dependencies": []
+    },
+    "Predicaments/Mental health.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1199,
+      "exportedPath": "predicaments/mental-health.html",
+      "dependencies": []
+    },
+    "Predicaments/Microplastics.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2339,
+      "exportedPath": "predicaments/microplastics.html",
+      "dependencies": []
+    },
+    "Predicaments/Migration.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 367,
+      "exportedPath": "predicaments/migration.html",
+      "dependencies": []
+    },
+    "Predicaments/Mind-body separation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1089,
+      "exportedPath": "predicaments/mind-body-separation.html",
+      "dependencies": []
+    },
+    "Predicaments/Misinformation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1110,
+      "exportedPath": "predicaments/misinformation.html",
+      "dependencies": []
+    },
+    "Predicaments/Missing elders.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 734,
+      "exportedPath": "predicaments/missing-elders.html",
+      "dependencies": []
+    },
+    "Predicaments/Mistreatment of animals.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4228,
+      "exportedPath": "predicaments/mistreatment-of-animals.html",
+      "dependencies": []
+    },
+    "Predicaments/Mistreatment of other humans.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4527,
+      "exportedPath": "predicaments/mistreatment-of-other-humans.html",
+      "dependencies": []
+    },
+    "Predicaments/Modern slavery.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 5724,
+      "exportedPath": "predicaments/modern-slavery.html",
+      "dependencies": []
+    },
+    "Predicaments/Moloch.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 9270,
+      "exportedPath": "predicaments/moloch.html",
+      "dependencies": []
+    },
+    "Predicaments/Monocultures (agriculture).md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1696,
+      "exportedPath": "predicaments/monocultures-(agriculture).html",
+      "dependencies": []
+    },
+    "Predicaments/Monocultures (people).md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 454,
+      "exportedPath": "predicaments/monocultures-(people).html",
+      "dependencies": []
+    },
+    "Predicaments/Monopolies.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 523,
+      "exportedPath": "predicaments/monopolies.html",
+      "dependencies": []
+    },
+    "Predicaments/Multipolar traps.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3012,
+      "exportedPath": "predicaments/multipolar-traps.html",
+      "dependencies": []
+    },
+    "Predicaments/Naive progress narrative.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1613,
+      "exportedPath": "predicaments/naive-progress-narrative.html",
+      "dependencies": []
+    },
+    "Predicaments/Naive techno-optimism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1274,
+      "exportedPath": "predicaments/naive-techno-optimism.html",
+      "dependencies": []
+    },
+    "Predicaments/Naive techno-pessimism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 965,
+      "exportedPath": "predicaments/naive-techno-pessimism.html",
+      "dependencies": []
+    },
+    "Predicaments/National borders.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 595,
+      "exportedPath": "predicaments/national-borders.html",
+      "dependencies": []
+    },
+    "Predicaments/Net negative caloric extraction.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 699,
+      "exportedPath": "predicaments/net-negative-caloric-extraction.html",
+      "dependencies": []
+    },
+    "Predicaments/News.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 807,
+      "exportedPath": "predicaments/news.html",
+      "dependencies": []
+    },
+    "Predicaments/Nihilism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1640,
+      "exportedPath": "predicaments/nihilism.html",
+      "dependencies": []
+    },
+    "Predicaments/No precautionary principle.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1939,
+      "exportedPath": "predicaments/no-precautionary-principle.html",
+      "dependencies": []
+    },
+    "Predicaments/No respect for indigenous wisdom.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 982,
+      "exportedPath": "predicaments/no-respect-for-indigenous-wisdom.html",
+      "dependencies": []
+    },
+    "Predicaments/No value in maintenance.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1513,
+      "exportedPath": "predicaments/no-value-in-maintenance.html",
+      "dependencies": []
+    },
+    "Predicaments/Nothing is local.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1233,
+      "exportedPath": "predicaments/nothing-is-local.html",
+      "dependencies": []
+    },
+    "Predicaments/Nuclear war.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1238,
+      "exportedPath": "predicaments/nuclear-war.html",
+      "dependencies": []
+    },
+    "Predicaments/Obesity.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 907,
+      "exportedPath": "predicaments/obesity.html",
+      "dependencies": []
+    },
+    "Predicaments/Ocean acidification.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2386,
+      "exportedPath": "predicaments/ocean-acidification.html",
+      "dependencies": []
+    },
+    "Predicaments/Only 'can we' never 'should we'.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 834,
+      "exportedPath": "predicaments/only-'can-we'-never-'should-we'.html",
+      "dependencies": []
+    },
+    "Predicaments/Oppressive tyrannies for the good of its victims.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 7675,
+      "exportedPath": "predicaments/oppressive-tyrannies-for-the-good-of-its-victims.html",
+      "dependencies": []
+    },
+    "Predicaments/Out of touch with seasons.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1497,
+      "exportedPath": "predicaments/out-of-touch-with-seasons.html",
+      "dependencies": []
+    },
+    "Predicaments/Over-reliance on technology.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1001,
+      "exportedPath": "predicaments/over-reliance-on-technology.html",
+      "dependencies": [
+        "lib/media/over_reliance.png"
+      ]
+    },
+    "Predicaments/Pandemics.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 719,
+      "exportedPath": "predicaments/pandemics.html",
+      "dependencies": []
+    },
+    "Predicaments/Parenting.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1187,
+      "exportedPath": "predicaments/parenting.html",
+      "dependencies": []
+    },
+    "Predicaments/Planetary boundaries.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2679,
+      "exportedPath": "predicaments/planetary-boundaries.html",
+      "dependencies": [
+        "lib/media/planetary_boundaries.png"
+      ]
+    },
+    "Predicaments/Poisoning the water, the earth, the air.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1280,
+      "exportedPath": "predicaments/poisoning-the-water,-the-earth,-the-air.html",
+      "dependencies": []
+    },
+    "Predicaments/Polarisation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 925,
+      "exportedPath": "predicaments/polarisation.html",
+      "dependencies": []
+    },
+    "Predicaments/Pollution.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 6499,
+      "exportedPath": "predicaments/pollution.html",
+      "dependencies": [
+        "lib/media/pollution_sunset.png"
+      ]
+    },
+    "Predicaments/Population growth.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 651,
+      "exportedPath": "predicaments/population-growth.html",
+      "dependencies": [
+        "lib/media/population_growth.png"
+      ]
+    },
+    "Predicaments/Populations entering the 'middle class'.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1431,
+      "exportedPath": "predicaments/populations-entering-the-'middle-class'.html",
+      "dependencies": [
+        "lib/media/middle_class.png"
+      ]
+    },
+    "Predicaments/Poverty.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2357,
+      "exportedPath": "predicaments/poverty.html",
+      "dependencies": []
+    },
+    "Predicaments/Power concentration to the wrong people.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 5845,
+      "exportedPath": "predicaments/power-concentration-to-the-wrong-people.html",
+      "dependencies": []
+    },
+    "Predicaments/Profit.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1340,
+      "exportedPath": "predicaments/profit.html",
+      "dependencies": []
+    },
+    "Predicaments/Propaganda.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 820,
+      "exportedPath": "predicaments/propaganda.html",
+      "dependencies": []
+    },
+    "Predicaments/Public transport.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1185,
+      "exportedPath": "predicaments/public-transport.html",
+      "dependencies": []
+    },
+    "Predicaments/Quality.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1734,
+      "exportedPath": "predicaments/quality.html",
+      "dependencies": []
+    },
+    "Predicaments/Quantification.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1312,
+      "exportedPath": "predicaments/quantification.html",
+      "dependencies": []
+    },
+    "Predicaments/Racism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1437,
+      "exportedPath": "predicaments/racism.html",
+      "dependencies": []
+    },
+    "Predicaments/Rationalism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1787,
+      "exportedPath": "predicaments/rationalism.html",
+      "dependencies": []
+    },
+    "Predicaments/Reductionism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1289,
+      "exportedPath": "predicaments/reductionism.html",
+      "dependencies": []
+    },
+    "Predicaments/Resource conflicts.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 298,
+      "exportedPath": "predicaments/resource-conflicts.html",
+      "dependencies": []
+    },
+    "Predicaments/Resources.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2240,
+      "exportedPath": "predicaments/resources.html",
+      "dependencies": []
+    },
+    "Predicaments/Sameness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1531,
+      "exportedPath": "predicaments/sameness.html",
+      "dependencies": []
+    },
+    "Predicaments/Scientism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 492,
+      "exportedPath": "predicaments/scientism.html",
+      "dependencies": []
+    },
+    "Predicaments/Sedentary lifestyles.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 908,
+      "exportedPath": "predicaments/sedentary-lifestyles.html",
+      "dependencies": [
+        "lib/media/going_outside.png"
+      ]
+    },
+    "Predicaments/Selfishness.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 660,
+      "exportedPath": "predicaments/selfishness.html",
+      "dependencies": []
+    },
+    "Predicaments/Sense-making crisis.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2031,
+      "exportedPath": "predicaments/sense-making-crisis.html",
+      "dependencies": []
+    },
+    "Predicaments/Sex and sexuality.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 684,
+      "exportedPath": "predicaments/sex-and-sexuality.html",
+      "dependencies": [
+        "lib/media/sex.png"
+      ]
+    },
+    "Predicaments/Sexism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 499,
+      "exportedPath": "predicaments/sexism.html",
+      "dependencies": []
+    },
+    "Predicaments/Signal-to-noise ratio.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 756,
+      "exportedPath": "predicaments/signal-to-noise-ratio.html",
+      "dependencies": []
+    },
+    "Predicaments/Simplifications.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1807,
+      "exportedPath": "predicaments/simplifications.html",
+      "dependencies": []
+    },
+    "Predicaments/Slow change.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1355,
+      "exportedPath": "predicaments/slow-change.html",
+      "dependencies": []
+    },
+    "Predicaments/Social erosion.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1847,
+      "exportedPath": "predicaments/social-erosion.html",
+      "dependencies": []
+    },
+    "Predicaments/Social media.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1389,
+      "exportedPath": "predicaments/social-media.html",
+      "dependencies": []
+    },
+    "Predicaments/Soil erosion.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4365,
+      "exportedPath": "predicaments/soil-erosion.html",
+      "dependencies": []
+    },
+    "Predicaments/Solutionism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1269,
+      "exportedPath": "predicaments/solutionism.html",
+      "dependencies": [
+        "lib/media/solutionism.png"
+      ]
+    },
+    "Predicaments/Spiritual metacrisis.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1754,
+      "exportedPath": "predicaments/spiritual-metacrisis.html",
+      "dependencies": []
+    },
+    "Predicaments/Status.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1530,
+      "exportedPath": "predicaments/status.html",
+      "dependencies": [
+        "lib/media/status.png"
+      ]
+    },
+    "Predicaments/Story of separation.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3874,
+      "exportedPath": "predicaments/story-of-separation.html",
+      "dependencies": []
+    },
+    "Predicaments/Suicide.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 854,
+      "exportedPath": "predicaments/suicide.html",
+      "dependencies": []
+    },
+    "Predicaments/Surveillance.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 606,
+      "exportedPath": "predicaments/surveillance.html",
+      "dependencies": []
+    },
+    "Predicaments/Sustainable growth.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1519,
+      "exportedPath": "predicaments/sustainable-growth.html",
+      "dependencies": []
+    },
+    "Predicaments/Synthetic biology.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 660,
+      "exportedPath": "predicaments/synthetic-biology.html",
+      "dependencies": []
+    },
+    "Predicaments/The Dark Triad.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 3470,
+      "exportedPath": "predicaments/the-dark-triad.html",
+      "dependencies": []
+    },
+    "Predicaments/The death of creative work.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2377,
+      "exportedPath": "predicaments/the-death-of-creative-work.html",
+      "dependencies": [
+        "lib/media/death_of_creative.png"
+      ]
+    },
+    "Predicaments/The desacration of all places.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1345,
+      "exportedPath": "predicaments/the-desacration-of-all-places.html",
+      "dependencies": []
+    },
+    "Predicaments/The impossibility of UBI.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1378,
+      "exportedPath": "predicaments/the-impossibility-of-ubi.html",
+      "dependencies": []
+    },
+    "Predicaments/The minimisation of all things wild.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2545,
+      "exportedPath": "predicaments/the-minimisation-of-all-things-wild.html",
+      "dependencies": []
+    },
+    "Predicaments/The spectacle.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1607,
+      "exportedPath": "predicaments/the-spectacle.html",
+      "dependencies": []
+    },
+    "Predicaments/Tipping points.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1211,
+      "exportedPath": "predicaments/tipping-points.html",
+      "dependencies": []
+    },
+    "Predicaments/Too much speed and noise.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1007,
+      "exportedPath": "predicaments/too-much-speed-and-noise.html",
+      "dependencies": []
+    },
+    "Predicaments/Traffic noise.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 762,
+      "exportedPath": "predicaments/traffic-noise.html",
+      "dependencies": []
+    },
+    "Predicaments/Tragedy of the vanishing commons.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 965,
+      "exportedPath": "predicaments/tragedy-of-the-vanishing-commons.html",
+      "dependencies": []
+    },
+    "Predicaments/Transportation infrastructure.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1576,
+      "exportedPath": "predicaments/transportation-infrastructure.html",
+      "dependencies": [
+        "lib/media/transportation.png"
+      ]
+    },
+    "Predicaments/Travel.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1165,
+      "exportedPath": "predicaments/travel.html",
+      "dependencies": []
+    },
+    "Predicaments/Unbalanced longtermism.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1488,
+      "exportedPath": "predicaments/unbalanced-longtermism.html",
+      "dependencies": []
+    },
+    "Predicaments/Unemployment.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1368,
+      "exportedPath": "predicaments/unemployment.html",
+      "dependencies": []
+    },
+    "Predicaments/Unheeded warnings.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1961,
+      "exportedPath": "predicaments/unheeded-warnings.html",
+      "dependencies": []
+    },
+    "Predicaments/Unpaid important labour.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1058,
+      "exportedPath": "predicaments/unpaid-important-labour.html",
+      "dependencies": []
+    },
+    "Predicaments/Views on human nature.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1044,
+      "exportedPath": "predicaments/views-on-human-nature.html",
+      "dependencies": []
+    },
+    "Predicaments/Violence.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 7460,
+      "exportedPath": "predicaments/violence.html",
+      "dependencies": []
+    },
+    "Predicaments/Virtue signalling.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 526,
+      "exportedPath": "predicaments/virtue-signalling.html",
+      "dependencies": []
+    },
+    "Predicaments/War.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 12131,
+      "exportedPath": "predicaments/war.html",
+      "dependencies": [
+        "lib/media/war.png"
+      ]
+    },
+    "Predicaments/Waste.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 5999,
+      "exportedPath": "predicaments/waste.html",
+      "dependencies": []
+    },
+    "Predicaments/Weber's iron cage.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 2184,
+      "exportedPath": "predicaments/weber's-iron-cage.html",
+      "dependencies": []
+    },
+    "Predicaments/Wisdom crisis.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1918,
+      "exportedPath": "predicaments/wisdom-crisis.html",
+      "dependencies": []
+    },
+    "Predicaments/Yuppie dystopia.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 795,
+      "exportedPath": "predicaments/yuppie-dystopia.html",
+      "dependencies": [
+        "lib/media/realestate.png"
+      ]
+    },
+    "Updates/2024-10-22.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1143,
+      "exportedPath": "updates/2024-10-22.html",
+      "dependencies": []
+    },
+    "Updates/2024-11-19.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1981,
+      "exportedPath": "updates/2024-11-19.html",
+      "dependencies": []
+    },
+    "Updates/2024-12-04.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1119,
+      "exportedPath": "updates/2024-12-04.html",
+      "dependencies": []
+    },
+    "Updates/2025-01-09.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 6261,
+      "exportedPath": "updates/2025-01-09.html",
+      "dependencies": [
+        "lib/media/skyrim.png",
+        "lib/media/topographic.png"
+      ]
+    },
+    "Updates/2025-01-19.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 979,
+      "exportedPath": "updates/2025-01-19.html",
+      "dependencies": []
+    },
+    "About.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 530,
+      "exportedPath": "about.html",
+      "dependencies": [
+        "img/faema.png"
+      ]
+    },
+    "The Overlay.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 4459,
+      "exportedPath": "the-overlay.html",
+      "dependencies": []
+    },
+    "The Predicament Landscape.md": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 26060,
+      "exportedPath": "the-predicament-landscape.html",
+      "dependencies": [
+        "img/kingcrown.png",
+        "img/hilma.png"
+      ]
+    },
+    "lib/media/oil.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 126536,
+      "exportedPath": "lib/media/oil.png",
+      "dependencies": []
+    },
+    "lib/media/art.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 175107,
+      "exportedPath": "lib/media/art.png",
+      "dependencies": []
+    },
+    "lib/media/biodiversity.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 101153,
+      "exportedPath": "lib/media/biodiversity.png",
+      "dependencies": []
+    },
+    "lib/media/ketamine_mentalhealth.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 204117,
+      "exportedPath": "lib/media/ketamine_mentalhealth.png",
+      "dependencies": []
+    },
+    "lib/media/capitalism.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 190856,
+      "exportedPath": "lib/media/capitalism.png",
+      "dependencies": []
+    },
+    "lib/media/climate_change.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 94550,
+      "exportedPath": "lib/media/climate_change.png",
+      "dependencies": []
+    },
+    "lib/media/clock.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 130225,
+      "exportedPath": "lib/media/clock.png",
+      "dependencies": []
+    },
+    "lib/media/ignorance_of_collapse.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 110287,
+      "exportedPath": "lib/media/ignorance_of_collapse.png",
+      "dependencies": []
+    },
+    "lib/media/complexity_mismatch.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 154917,
+      "exportedPath": "lib/media/complexity_mismatch.png",
+      "dependencies": []
+    },
+    "lib/media/culturewar.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 19728,
+      "exportedPath": "lib/media/culturewar.png",
+      "dependencies": []
+    },
+    "lib/media/death.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 110187,
+      "exportedPath": "lib/media/death.png",
+      "dependencies": []
+    },
+    "lib/media/deforest.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 215990,
+      "exportedPath": "lib/media/deforest.png",
+      "dependencies": []
+    },
+    "lib/media/genocide_in_gaza.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 75052,
+      "exportedPath": "lib/media/genocide_in_gaza.png",
+      "dependencies": []
+    },
+    "lib/media/collapse.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 158680,
+      "exportedPath": "lib/media/collapse.png",
+      "dependencies": []
+    },
+    "lib/media/ignorance_of_the_mythical.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 112156,
+      "exportedPath": "lib/media/ignorance_of_the_mythical.png",
+      "dependencies": []
+    },
+    "lib/media/hand.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 120723,
+      "exportedPath": "lib/media/hand.png",
+      "dependencies": []
+    },
+    "lib/media/industrial_slaughter.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 103198,
+      "exportedPath": "lib/media/industrial_slaughter.png",
+      "dependencies": []
+    },
+    "lib/media/quiet.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 32238,
+      "exportedPath": "lib/media/quiet.png",
+      "dependencies": []
+    },
+    "lib/media/seasons.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 23601,
+      "exportedPath": "lib/media/seasons.png",
+      "dependencies": []
+    },
+    "lib/media/max_power.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 135033,
+      "exportedPath": "lib/media/max_power.png",
+      "dependencies": []
+    },
+    "lib/media/over_reliance.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 118674,
+      "exportedPath": "lib/media/over_reliance.png",
+      "dependencies": []
+    },
+    "lib/media/planetary_boundaries.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1177006,
+      "exportedPath": "lib/media/planetary_boundaries.png",
+      "dependencies": []
+    },
+    "lib/media/pollution_sunset.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 110105,
+      "exportedPath": "lib/media/pollution_sunset.png",
+      "dependencies": []
+    },
+    "lib/media/population_growth.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 372719,
+      "exportedPath": "lib/media/population_growth.png",
+      "dependencies": []
+    },
+    "lib/media/middle_class.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 173329,
+      "exportedPath": "lib/media/middle_class.png",
+      "dependencies": []
+    },
+    "lib/media/going_outside.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1107104,
+      "exportedPath": "lib/media/going_outside.png",
+      "dependencies": []
+    },
+    "lib/media/sex.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 70351,
+      "exportedPath": "lib/media/sex.png",
+      "dependencies": []
+    },
+    "lib/media/solutionism.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 28657,
+      "exportedPath": "lib/media/solutionism.png",
+      "dependencies": []
+    },
+    "lib/media/status.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 101800,
+      "exportedPath": "lib/media/status.png",
+      "dependencies": []
+    },
+    "lib/media/death_of_creative.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 77628,
+      "exportedPath": "lib/media/death_of_creative.png",
+      "dependencies": []
+    },
+    "lib/media/transportation.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 58625,
+      "exportedPath": "lib/media/transportation.png",
+      "dependencies": []
+    },
+    "lib/media/war.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 97490,
+      "exportedPath": "lib/media/war.png",
+      "dependencies": []
+    },
+    "lib/media/realestate.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 64997,
+      "exportedPath": "lib/media/realestate.png",
+      "dependencies": []
+    },
+    "lib/media/skyrim.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 82644,
+      "exportedPath": "lib/media/skyrim.png",
+      "dependencies": []
+    },
+    "lib/media/topographic.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 114572,
+      "exportedPath": "lib/media/topographic.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 103840,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 49502,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 137567,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 1524246,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 522,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1742107370425,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
