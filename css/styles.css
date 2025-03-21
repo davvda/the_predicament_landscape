@@ -1,0 +1,101 @@
+html {
+    padding-left: 1em;
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+    font-weight: normal;
+    font-size: 18px;
+    background-color: white;
+  }
+
+a {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 172, 47);
+}
+
+a:hover {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='rgb(255, 172, 47)' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+  background-position: 0 100%;
+  background-size: auto 2px;
+  background-repeat: repeat-x;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 172, 47);
+}
+
+
+p {
+  padding-right: 2em;
+  text-align: justify;
+  line-height: 1.5em;
+}
+
+blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  width: 80%;
+  border-left: 3px solid  rgb(255, 172, 47);
+} 
+
+cite {
+  padding-left: 15px;
+  color: #717171;
+} 
+
+ul, ol {
+  padding-right: 2em;
+  text-align: justify;
+  line-height: 1.5em;
+} 
+
+g.predicament {
+  pointer-events: bounding-box;
+  opacity: 1;
+}
+g.predicament:hover {
+  opacity: 0.5;
+}
+g.predicament:visited {
+  stroke: rgb(255, 172, 47);
+  stroke-width: 10px;
+}
+
+#mapsection {
+  width: 50%;
+  height: auto;
+  fill: #ccc;
+  stroke: #333;
+  stroke-width: 2;
+}
+
+.map {
+  overflow: auto;
+  position: fixed;
+  height: 100%;
+  width: 62.5%;
+  border: none;
+}
+
+.text {
+  position: fixed; 
+  right: 0%; 
+  top: 5%;
+  height: 100%;  
+  width: 35%; 
+  border: none; 
+  border-left: solid 2px rgb(53, 53, 53)
+}
+
+@media(max-width: 1000px) {
+  .map {
+    width: 0%;
+  }
+  .text {
+    width: 100%;
+  }
+}
