@@ -1,0 +1,31 @@
+**Energy is [activity and vigour](https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1#Ancient_Greek), energy is [work](https://en.wikipedia.org/wiki/Work_(thermodynamics), [heat](https://en.wikipedia.org/wiki/Heat), [light](https://en.wikipedia.org/wiki/Light), [flow](https://en.wikipedia.org/wiki/Time-translation_symmetry), [electricity](https://en.wikipedia.org/wiki/Electrical_energy), [sound](https://en.wikipedia.org/wiki/Sound_energy).** Energy is [happiness, pleasure, and living force](https://en.wikipedia.org/wiki/Potentiality_and_actuality). Energy is life and all life needs energy. How we get and use energy is the central predicament of existence. Less philosophically, we get our energy from the sun in different forms which we then use in order to live.
+
+**Outgoing connections:**
+- [[Acceleration]] - Increase the energy input to move faster.
+- [[Access to food]] - We require daily energy input to live.
+- [[Agriculture]] - The process of energy conversion on different levels.
+- [[Air travel]] - Angels powered by the energies of long-since buried hellfire.
+- [[Ancient sunlight, old sunlight, current sunlight]]
+- [[Cars]]
+- [[Climate change]] - Stored energy in the Earth released into the atmosphere.
+- [[Cost of living]] - Heating, electricity, food, the most vital costs are energy-related.
+- [[Electric vehicle solutions]] - An attempt to at the very least change the main source of energy. Not much more than that, unfortunately.
+- [[Energy consumption increasing]] - Up to about the Middle Ages the daily energy expenditure per person was around 3-5kWh. The average in 2023 was around 58kWh and in the US around 210kWh. 
+- [[Exponential technology]]
+- [[Extreme weather]] - More energy in the atmosphere leads to more violent weather conditions.
+- [[Growth]] - Energy and growth are wholly interlinked. We can not have financial growth independent of energy increases.
+- [[Illusion of GDP decoupling]] - There will be no decoupling of GDP from energy use.
+- [[Jevons paradox]] - Increases in efficiency do not lead to decreases in energy use.
+- [[Lack of systems thinking]] - When it appears we have infinite energy we ignore the systems thinking view of the world.
+- [[Lack of the longterm]]
+- [[Malnutrition]] - Malnutrition is rarely a problem of lack of energy but our distribution and view of energy plays a part in it.
+- [[Monocultures (agriculture)]] - Modern agricultural practices present a clear example of our failure to optimise and control our longterm access to predictable energy.
+- [[Naive progress narrative]] - What is the global dominating story regarding energy?
+- [[Net negative caloric extraction]]
+- [[Nothing is local]] - Where does the energy you use come from? The electricity, food, fuel, etc? And don't pull some Uno reverse shit on me claiming all energy comes from the sun which is quite far away anyway.
+- [[Nuclear war]]
+- [[Over-reliance on technology]] - How reliant on modern technology are we when it comes to our energy use?
+- [[Sedentary lifestyles]] - We seem to be trying to expend as much energy as we can without actually moving our bodies.
+- [[Travel]]
+- [[Unbalanced longtermism]]
+- [[Waste]] - So much wasted energy. A civilisation suffering from global Huntington's disease.

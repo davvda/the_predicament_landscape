@@ -1,0 +1,37 @@
+Electric vehicles are vehicles that use electric motors for propulsion. Electric vehicles are potentially much more efficient than vehicles relying on fossil fuels but they come with other problems. Moving away from fossil fuel-dependent vehicles is of high importance but **electric vehicles are often the right answer to the wrong question**. Electric cars are not mainly meant to save the climate, they're meant to save the car industry. As with all predicaments we must consider where electric vehicle solutions fit in with the rest of the landscape. Beware of good solutions to the wrong problems.
+
+**Outgoing connections:**
+- [[Acceleration]] - Well, electric vehicles do accelerate faster than those with combustion engines...
+- [[Ancient sunlight, old sunlight, current sunlight]] - Electric vehicles solutions might attempt to change our distribution of our usage of different types of sunlight but it doesn't address the fundamental question of energy consumption.
+- [[Avoiding radical options]] - Like not having cars be the foundation of our infrastructure.
+- [[Business-as-usual narrative]] - Having things largely remain as shitty as before is not innovation to me. We would do anything to not have to change our ways.
+- [[Car-centric design]]
+- [[Carbon fundamentalism]] - Actually, not even looking at EVs through a carbon fundamentalist view gives such a great picture.
+- [[Cars]]
+- [[Centralisation]] - Say what you will about old cars, regular handy people could fix them without the help of the car's manufacturer.
+- [[Deforestation]] - I'm sure forests will not stand in the way of companies looking for lithium deposits.
+- [[Energy]]
+- [[Energy consumption increasing]]
+- [[Greenwashing]] - You can pick any colour as long as it's green.
+- [[Ignored externalities]] - Somehow, cars without exhaust fumes aren't seen to have hidden externalities. 
+- [[Illusion of GDP decoupling]]
+- [[Illusion of no option]] - We must drive cars and since fossil fuels are bad we simply must build electric cars.
+- [[Jevons paradox]]
+- [[Lack of quiet spaces]] - Electric motors aren't as loud as combustion engines but at moderate to high speeds most of the noise from cars come from the friction between the tires and the road. In short, the promise of electric vehicles making our environment quieter was never intended to be upheld. Exception perhaps being those times when you're walking calmly until the bumper of the Prius behind you licks your calves.
+- [[Lack of the longterm]]
+- [[Material extraction]] - The materials used for electric vehicles are no less finite than those used for other types of vehicles.
+- [[Microplastics]] - Electricity or combustion does not change the microplastics chipping off of tires.
+- [[Naive progress narrative]]
+- [[Naive techno-optimism]]
+- [[Over-reliance on technology]]
+- [[Pollution]] - ["The report confirms that the greenhouse gas emissions of electric vehicles, with the current EU energy mix and over the entire vehicle life cycle, are about 17-30 % lower than the emissions of petrol and diesel cars."](https://www.eea.europa.eu/highlights/eea-report-confirms-electric-cars) I'm sorry, but that still sucks.
+- [[Predicaments/Public transport]] - Should all transport be public? With the exception of bicycles, perhaps?
+- [[Resources]] - It's not as if electric vehicles are somehow disconnected from the planet's finite resources.
+- [[Sedentary lifestyles]]
+- [[Slow change]] - Yet another strategy of avoiding dealing with the trendlines of the present moment.
+- [[Sustainable growth]] - Another blank piece for the impossible puzzle that is sustainable growth.
+- [[Traffic noise]]
+- [[Transportation infrastructure]]
+- [[Travel]]
+- [[Waste]] - " ["Currently, globally, it's very hard to get detailed figures for what percentage of lithium-ion batteries are recycled, but the value everyone quotes is about 5%," says Dr Anderson. "In some parts of the world it's considerably less."](https://www.bbc.com/news/business-56574779) ". Homo sapiens indeed.
+- [[Yuppie dystopia]]

@@ -1,0 +1,43 @@
+**Globalisation is the worldwide process of interaction and integration** among people, organisations, cultures, services, and more. Globalisation is sometimes seen as the stage following the (French) term mondialisation where it implies "[the dissolution of national identities and the abolishment of borders inside the world network of economic exchanges](https://ideas.repec.org/a/ovi/oviste/vxiiy2012i2p27-30.html)". Colonialism has softened its edges and strengthened its pull, an all-encompassing vortex.
+
+**Outgoing connections:**
+- [[Acceleration]] - Multi-front global acceleration and decentralised expansion.
+- [[Air travel]] - It's safer to travel to new places if they all appear fundamentally the same.
+- [[Capitalism]] - Turning the entire globe into capital.
+- [[Clock time]]
+- [[Colonialist narratives]] - Barely obscured business opportunities. Why rape and pillage those who can make our shoes?
+- [[Constant connectivity]] - There is always something going on somewhere.
+- [[Consumerism]]
+- [[Culture wars]] - Or perhaps culturicide?
+- [[Debt]] - Welcome, poor people, to the global game of debt! And don't worry, it's not one of those pesky finite games I keep talking about, this one's infinite, the debt will continue to the end of the observable universe and beyond.
+- [[Global supply chains]]
+- [[Growth]]
+- [[Identity]] - How does globalisation affect our identity? Do you have a place? A people?
+- [[Ignoring diversity]] - It is easy to hope and believe that globalisation simply means a spreading of the good of all places and cultures across the globe and, at times, this of course happens. To live in Sweden and have the possibility to walk a couple of minutes in order to have food more or less authentically cooked like in Sichuan, Lebanon, or Japan is close to magic. Oftentimes, though, globalisation means the dominant nations and cultures of modernity picking, choosing, spreading, swallowing, and erasing at will. Thank you, Palestine, for hummus and falafel, but we'll take it from here.
+- [[Lack of belonging]] - The thought of belonging simply to Earth sure is lovely, but like other animals we humans tend to thrive when allowed to, for a time at least, belong to a place and a people, to be of a place and a people. Globalisation doesn't make this impossible but its trendlines make it less and less likely.
+- [[Lack of communities]] - Same as above but on a more social level. I don't mean to romanticise and glorify subsistence farming and hard work together with others, well, yes I do, but not too much, however, as with many other predicaments it is unwise to see my complaints as a desire to shift entirely to the other side of the spectrum. Globalisation does not have to be inherently bad but in the present time I believe globalisation is an unbalanced force efficiently erasing notions of local community to the detriment of the global well-being of humans and our supporting natural systems.
+- [[Predicaments/Language]] - I grew up learning Swedish and, afterwards, mostly through watching The Simpsons, English. How is my world view affected by the fact that I am writing this in English? What thoughts and views are unknowingly excluded? The English language has, in a sense, colonised the entire planet better than the English people ever did. And languages change how you think and what you feel. A global erasing of other patterns of thought, surely this is a mistake?
+- [[Loss of cultural complexity]]
+- [[Map and territory]] - Whatever some say and whatever you sometimes feel, the world is not small. Our maps are.
+- [[Migration]]
+- [[Modern slavery]] - Globalisation is the main, deviously benevolent, modern slave driver.
+- [[Monocultures (people)]]
+- [[National borders]] - Modernity spreading its shadows and gifts unthinkingly draws the borders according to its way of sense-making.
+- [[News]] - Well, something horrible is always happening somewhere. It's important to stay informed, yes?
+- [[Nothing is local]] - Yes, I know, it's not that *nothing* is local. *Few* things are local and *more* things have become distant. 
+- [[Obesity]] - From a slightly satirical perspective, after the US became global leaders during the mid 20th century its people has been on a mission to make everyone else as fat as they are. To great success, I might add.
+- [[Oppressive tyrannies for the good of its victims]]
+- [[Pandemics]]
+- [[Poverty]] - Globalisation helps people become aware that they're actually really very poor.
+- [[Profit]]
+- [[Resources]] - The driving powers behind globalisation is simply on the lookout for more resources, be it human or material.
+- [[Sameness]] - It is fascinating that "Chinese food" is the same almost everywhere except in China.
+- [[Status]] - Welcome to the Pyramid of Power! Start at the bottom and climb up, the view is lovely from up here!
+- [[The desacration of all places]] - What overused example would you like? The KFC with a view over the pyramids of Giza? The startup incubator and co-working space at Mt Everest basecamp?
+- [[Tragedy of the vanishing commons]] - It begun with wealthy Englishmen *in* *England* and then continued across the globe. The privatisation of every square meter of the Earth.
+- [[Transportation infrastructure]] - Of course globalisation affects how we design our infrastructure. Everywhere must be covered. For good or ill.
+- [[Travel]]
+- [[Unpaid important labour]] - UNPAID!? Where? Why, I'll fuckin'...
+- [[Violence]] - What fraction of globalisation efforts have been explicitly violent? What about implicitly?
+- [[War]] - Globalisation undoubtedly affect the likelihood of wars and I can believe that if makes wars less likely. I do however wonder if it really is that simple. Of course it isn't but how and where those arrows point are unclear to me.
+- [[Weber's iron cage]] - Hey, look! That cage has FREEDOM written on it!

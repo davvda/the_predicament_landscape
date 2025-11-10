@@ -1,0 +1,1 @@
+Literal and metaphoric

@@ -1,0 +1,33 @@
+The delusional domination of nature results in a world where we can build beautiful steel bridges over deep ravines while burning all other bridges, make animals into cattle and forcing them into cramped spaces and then justifying treating humans similarly. This is, of course, not strange, for we aren't separate from nature and **any domination of nature will therefore bind us into submission as well**. Then again, if you're into shibari I say go for it. Did we ever agree on a safeword, by the way?
+
+**Outgoing connections:**
+- [[Agriculture]] - The delusional domination of nature sees one of its peaks in modern industrial agriculture.
+- [[Ancient sunlight, old sunlight, current sunlight]]
+- [[Animal views]] - If we see ourselves as so dominant, so dominating, it makes sense that all animals are not just below us, but for us.
+- [[Carbon fundamentalism]] - We can continue our domineering as long as we keep accounts of our carbon emissions.
+- [[Cognitive dissonance]]
+- [[Deforestation]]
+- [[Ecological crisis]]
+- [[Ego]] - Delusional dominant ego-stroking.
+- [[Failure to take responsibility]] - As we close our eyes to the externalities of our attempts at domination, all our chances to take responsiblity have passed us by.
+- [[Hemispherical asymmetry (Brain)]] - Delusional, inattentive, further pushed into rationalistic madness.
+- [[Hemispherical asymmetry (Earth)]] - Delusions further deepened by the surface-level normalcy of what we're exposed to in the Northern hemisphere compared to the polluted rivers, flooded villages, and starving soils of the South.
+- [[Ignorance of interconnectedness]]
+- [[Ignorance of ongoing collapse]]
+- [[Ignored externalities]] - As long as we keep ignoring externalities we will remain delusional and dominating until devastation comes knocking. By then it's too late. By now it's too late. It's been banging on the door for decades, maybe centuries.
+- [[Illusion of competence]] - Delusion creating illusion.
+- [[Industrial slaughter]]
+- [[Lack of empathy]]
+- [[Lack of humility]] - Dominating humbly is tricky.
+- [[Mistreatment of animals]]
+- [[Monocultures (agriculture)]]
+- [[Naive progress narrative]] - Our domination of nature is a central part in the progress narrative of our time. We stand tall above it, doing what we want to it, and it doesn't so much as rise its gaze. Or so we might think.
+- [[Only 'can we' never 'should we']] - If we can, we should, because we know best and can do no wrong.
+- [[Pandemics]] - Put suffering, sick, panicked wild animals in cages in open markets with thousands of humans. Are we actually this stupid? Yes, yes we are.
+- [[Poisoning the water, the earth, the air]]
+- [[Pollution]]
+- [[Scientism]] - Scientism, the pinnacle of delusional domination of nature.
+- [[Spiritual metacrisis]]
+- [[Story of separation]] - Our delusions of separation from nature is driven by our dominating actions that attempt to make it so.
+- [[The minimisation of all things wild]] - Only we can tame the wild. And, in doing so, we've become morally feral, the worst kind of wild rabid beasts. Where in this landscape could I add the relief the Earth would see if there were no humans? Am I only pretending to be a humanist to feed my own arrogance and superiority complex? Probably.
+- [[Unheeded warnings]] - LALALALA I CAN'T HEAR YOU.

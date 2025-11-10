@@ -1,0 +1,34 @@
+What stirs us up, agitates us? **An emotional crisis is a state in which we are stirred up and agitated**, internally and externally, to the extent that we lose control over our emotions and consequently the behaviours they might entail. Emotional crises could be expressed as depressive behaviours, anxiety, withdrawal, isolation, panic, paranoia, despair, sadness, anhedonia, and suicide. Defined differently it can also be seen as any state of crisis where emotions play a role in inhibiting proper responses, responsivity, or responsibility, potentially through situations being so complex that it becomes nearly impossible to know what a correct or healthy emotional reaction could be.
+
+**Outgoing connections:**
+- [[Addiction]] - Certain addictions are methods of turning away from emotional crises.
+- [[Apathy]]
+- [[Chasing happiness]] - Some live their whole lives believing themselves to be in the bad end of the emotional spectrum, pushing and pushing to get to the other end.
+- [[Constant connectivity]] - A wise response to deviating emotional states is turning your attention inwards towards the emotion, placing it in the body or simply observing its transiency. The easier and potentially catastrophic alternative is turning outwards with a full openness to any available distraction. And distractions have never been this easy to find.
+- [[Consumerism]] - Every purchase a sweet dopamine relief.
+- [[Despair]] - We all have our limits.
+- [[Distractions]]
+- [[Ego]] - In moments of crisis the ego sometimes shows up, donned in a homemade cape, finally a saviour from our deeper selves. Is it a bird? Is it a plane? No, it's project-everything-outwards-and-abort-any-inner-healing-processes-man.
+- [[Evil]] - To those battling constant inner turmoil, evil acts might not register as such.
+- [[Failure to take responsibility]]
+- [[Fear]]
+- [[Hedonism]] - More numbing.
+- [[Lack of agency]]
+- [[Lack of compassion]] - Emotional crises often come with self-centredness and an inability to simultaneously take in the crises of others.
+- [[Lack of empathy]]
+- [[Loneliness]] - A person in crisis might desperately ask everyone for help and company or completely isolate themselves and retreat from the world.
+- [[Meaning crisis]]
+- [[Mental health]] - Mental health issues are almost always unhealthy habitual methods of handling emotions. This predicament landscape is probably an unhealthy method of handling my emotions. Shit happens.
+- [[Mind-body separation]] - A person in emotional distress tends to live exclusively in their thoughts.
+- [[Nihilism]] - The bliss of the empty void at the depths of depression is often misinterpreted as proof of the foundationlessness of the world. Nothing could be further from its minty fresh truth.
+- [[Obesity]] - Eat away your emotions.
+- [[Selfishness]]
+- [[Sex and sexuality]] - You will not be able to fuck away your emotional issues.
+- [[Spiritual metacrisis]]
+- [[Suicide]] - Some never return from the depths. I hope they've found peace.
+- [[The Dark Triad]] - Some return from the depths bringing its darkness to the surface, their souls left somewhere deep below beyond any communication frequencies.
+- [[The spectacle]] - Real life is difficult. The spectacle is always there to welcome you into its unliving ways.
+- [[Violence]]
+- [[War]] - How many wars are started because of world leaders finding themselves in emotional distress?
+- [[Waste]] - Even though I am painting emotional crises in a very dark shade, the wise never waste an emotional crisis. Emotions are great teachers.
+- [[Wisdom crisis]]

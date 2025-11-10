@@ -1,0 +1,3 @@
+> So what is permaculture? One of the co-orginators of the permaculture concept Bill Mollison, and his colleague Scott Pittman, define it as such:
+> 
+> “Permaculture (Permanent Agriculture) is the conscious design and maintenance of cultivated ecosystems which have the diversity, stability & resilience of natural ecosystems. It is the harmonious integration of landscape, people & appropriate technologies, providing good, shelter, energy & other needs in a sustainable way. Permaculture is a philosophy and an approach to land use which works with natural rhythms & patterns, weaving together the elements of microclimate, annual & perennial plants, animals, water & soil management, & human needs into intricately connected & productive communities.”

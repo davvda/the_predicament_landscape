@@ -1,0 +1,25 @@
+**Big tech refers to a select few corporations that control a large part of the world's technological development**, usually within the IT-sector. The impact these corporations can have makes them more powerful than many nations. They are in control of our attention, information, social interaction, and are in some ways the final expression of the spectacle that is modern capitalism. Avoid big tech completely and it becomes nearly impossible to be a citizen of modernity.
+
+**Outgoing connections:**
+- [[Acceleration]] - Big tech accelerates many processes. Towards what ends? Unclear.
+- [[Addiction]]
+- [[Advertising]]
+- [[Algorithmic curation]]
+- [[Artificial intelligence]]
+- [[Centralisation]]
+- [[Data privacy]]
+- [[Exponential technology]]
+- [[Growth]]
+- [[Ignored externalities]]
+- [[Lobbyism]]
+- [[Monocultures (people)]]
+- [[Monopolies]]
+- [[Naive techno-optimism]]
+- [[Naive techno-pessimism]]
+- [[No precautionary principle]]
+- [[Only 'can we' never 'should we']]
+- [[Over-reliance on technology]]
+- [[Social media]]
+- [[Surveillance]]
+- [[The spectacle]]
+- [[Yuppie dystopia]]

@@ -1,0 +1,1 @@
+> Purposes are deduced from behavior, not from rhetoric or stated goals. - Donella Meadows

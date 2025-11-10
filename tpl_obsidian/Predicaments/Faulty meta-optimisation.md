@@ -1,0 +1,53 @@
+**Meta-optimisation is optimising what you're optimising**. In simpler terms, it is prioritisation. Every action we take can be seen as contributing to one long optimisation equation, consciously or not. There are times when what you optimise for is obvious, perhaps buying a car that maximises convenience while minimising cost. Most times, however, what you're optimising for is complicated and multi-faceted. Furthermore, many systems incentivise us to optimise badly. This is where meta-optimisation comes in. How do you make sure that if you want to optimise for a "life well lived", you have (meta)optimised your optimisation equation to actually yield that result? Now, this is an unanswerable question or, rather, it is a question you can spend several lives trying to answer, but while the perfect optimisation doesn't exist and constantly changes it is quite clear when an optimisation equation hasn't been correctly (meta)optimised. When this fact appears in stark relief, something has to change. When variables such as wealth keep increasing while variables such as time spent in old-growth forests (apologies to any hippiephobe), enjoyment of music, or pure joy have stopped increasing and may even be decreasing we have to re-meta-optimise.
+
+Lastly, there is of course also the question of meta-meta-optimisation and meta-meta-meta-optimisation but that becomes a bit too meta at this time, even for me.
+
+**Outgoing connections:**
+- [[Acceleration]] - We have meta-optimised for speed and growth.
+- [[Artificial intelligence]] - If we deem an artificial intelligence particularly intelligent, what do we mean by that? Do we mean that it seems to optimise for the same things we optimise for? Should it? Or is the way AIs "think" reflecting how we are already selecting what human intelligence means? Which minds are rising to the top of the power struggle? Do the way they "think" reflect what most humans optimise for?
+- [[Being reasonable]] - How could you reasonably and rationally optimise for what creates more beauty, life, or love?
+- [[Biased evidence selection]]
+- [[Capitalism]] - We're meta-optimising for wellbeing and happiness by optimising proxies that no longer show clear correlations for either of the two.
+- [[Car-centric design]] - Optimise for speed and you might get cars, optimise for cars and you get car-centric urban development.
+- [[Cognitive dissonance]] - If you are attempting to optimise for a well-lived life and it isn't happening from optimising what modernity allows you to... What's the deal?
+- [[Dealing with death]] - Why are we trying to beat death when we haven't yet figured out neither how to live well or to die well?
+- [[Delusional domination of nature]] - Even if the domination was to be non-delusional, how would the ability to dominate nature benefit natural beings?
+- [[Directionlessness]]
+- [[Ecological crisis]]
+- [[Educational crisis]] - When we design educational curricula, what are we optimising for? Is it working? Assuming benevolent and thoroughly considered intentions, are schools transitioning children towards becoming intelligent, independent, sociable, creative, contributing, caring, wise, healthy, fit, friendly, mature, communicative, strong adults? Plain laughable, sadly. But are those intentions actually our meta-optimised variables? I doubt it. Simply producing human machines fit for the workforce gets closer to the truth, I think.
+- [[Ego]] - How many things in life have been maximised to serve the ego above all others?
+- [[End of history]] - Our faulty meta-optimisation, our failure to have our highest intentions filter through the layers undisturbed all the way to the actions of our feet on the Earth, this is our big failing as a species.
+- [[Energy]] - Any natural optimisation is chiefly about energy extraction and consumption.
+- [[Energy consumption increasing]]
+- [[Evil]] - Meta-optimisation going just slightly wrong quickly lead to acts of evil.
+- [[Finite games]] - Our initial strategy and tactics never considered the inevitable end of finite games.
+- [[Growth]] - Optimising is about maximising.
+- [[Hemispherical asymmetry (Brain)]]
+- [[Illusion of competence]] - Everything seemed to be going so well. If reality caught up, how did we leave it behind in the rush to begin with?
+- [[Immoral justifications]] - What happens to us when our welfare depends on arms export, extractivism, or deforestation? What arrows turn back from one optimisation to the other, pointing at weapons, mines, and razed forests as being opposite to welfare? These insights shouldn't be difficult or deep, are we this tolerant to moral failure?
+- [[Individualism]]
+- [[Inertia]] - We are stuck in the inertia of previous meta-optimisations that were never intended to be maintained this long.
+- [[Lack of balance]]
+- [[Lack of historical insight]]
+- [[Lack of purpose]] - Entrenched in following the instructions of a manual we no longer have the required parts for.
+- [[Lack of resilient systems]]
+- [[Lack of the longterm]] - Some time during the past century, most of modern civilisation lost what it was built upon. It lost the future.
+- [[Map and territory]] - Optimisations are scribbles on a map.
+- [[Meaning crisis]]
+- [[Moloch]] - Moloch was, at the early stages of our optimisation strategy, born and simultaneously gave birth to its continuance.
+- [[Naive progress narrative]]
+- [[No value in maintenance]]
+- [[Oppressive tyrannies for the good of its victims]]
+- [[Profit]] - It is to many a foreign notion that such a thing as profit can ever be a bad thing.
+- [[Quantification]] - It is much simpler to optimise for that which is measurable and quantifiable. At least for us it is.
+- [[Resources]]
+- [[Sameness]] - Homogeneous optimisation. 
+- [[Selfishness]]
+- [[Sense-making crisis]] - It doesn't make sense that things are going so well and so horribly wrong at the same time. I mean, it does make sense, but on the surface-level it appears not to.
+- [[Slow change]]
+- [[Tragedy of the vanishing commons]] - A simple example, really. Meta-optimise for profit and financial gain, optimise land-use for maximum privatisation and productivity.
+- [[Transportation infrastructure]] - Meta-optimise for individual freedom, optimise infrastructure for personal motor vehicles.
+- [[Unpaid important labour]] - A clear example of our meta-optimisations not trickling down the way we intend them to. Because we do care about women, children, and the elderly, right?
+- [[Violence]] - So much violence to arrive nowhere in particular.
+- [[Wisdom crisis]] - Wisdom could be described as the lifelong mastery of meta-optimisation.
+- [[Yuppie dystopia]] - Here we are.

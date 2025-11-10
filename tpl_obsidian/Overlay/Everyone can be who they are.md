@@ -1,0 +1,1 @@
+> I met Elvin Jones after a show in Oakland in 2001. He signed my ticket and gave me a hug. "Don't ever change!" I said. He smiled and said, "Into what?"

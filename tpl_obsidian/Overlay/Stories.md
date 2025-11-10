@@ -1,0 +1,1 @@
+> When all appeals to reason have failed, tell a new story.

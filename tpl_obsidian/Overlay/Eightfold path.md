@@ -1,0 +1,1 @@
+Ha varje punkt som en overlay?

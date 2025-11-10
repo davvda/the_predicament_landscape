@@ -1,0 +1,55 @@
+![](../img/industrial_slaughter.png)
+
+> We are _definitely different_ from the bad people in history. The immoral fools tricked by Hitler into saluting the iron cross and casting their votes in favour of genocide, the spiritually corrupt slave traders of the colonies in Africa, the Europeans pillaging and raping (culturally and literally) the indigenous people of the "new worlds" of America, Australia, etc; the brilliant geniuses talked into developing the atom bomb, the monsters who then dropped those bombs over Japan in the name of peace. We are definitely different from them. _The most efficient systematic slaughter of sentient beings the planet has ever seen_, the complete indifference to the ecocide required for our day-to-day lives, the endless belief in infinite growth on a finite planet, the quantification of all that is sacred into mere resources and business opportunities, the utter carelessness toward the world our children will inherit. All this we manage to stand for in the name of progress and human kind's superiority over all others. No, we are _definitely different_. We are worse.
+
+**Industrial slaughter is the efficient industrialised process of killing other beings**. Rarely can the slaughterhouses of modernity be heard, hidden away in fields far from people, but, if you listen, you can hear them.z
+
+**Outgoing connections:**
+*   **[[Access to food]]** - Industrial slaughter funnels energy and nutrients upward in the chain, leading to a horribly inefficient way of extracting energy. True, we might not want to eat exclusively genetically modified soy beans (neither do the animals) but the conversion of arable land to food ready to be eaten in the form of meat decreases people's direct access to food.
+*   **[[Access to water]]** - [Producing 1kg of animal protein requires about 100 times more water than producing 1 kg of grain protein.](https://www.sciencedirect.com/science/article/pii/S0002916522033706#s0025) There are populations dying of thirst while others feast on beef.
+*   **[[Agriculture]]** - Industrial slaughter is the main driver and shaper of modern agriculture.
+*   **[[Ancient sunlight, old sunlight, current sunlight]]** - With industrial slaughter we are using up all ancient sunlight and cutting down old sunlight simply to inefficiently extract current sunlight for what? The taste of defeat?
+*   **[[Animal views]]** - Beef, poultry, pork. Not cows, chickens, pigs. Lives become products in a machine. Hey, you, just a little business idea. Take it and run with it if you want to. Listen. Make one of those toys with buttons in the shape of chickens, cows, dogs, etc where, if you push a button, it makes the sound of the animal. But just have every click of a button emit a terrible scream for mercy. Test these toys at kindergartens and iterate your design process until you've reached perfection.
+*   **[[Apathy]]** - How does one care for lives lived in dense darkness only seen as packaged products in brightly bluelit grocery stores?
+*   **[[Avoiding radical options]]** - Not eat meat? What, and become a fucking faggot soyboy?
+*   **[[Biodiversity loss]]** - We're extincting species every day while increasing the populations of a select few productive friends of civilisation.
+*   **[[Breakdown of information infrastructure]]** - Make it obligatory that slaughterhouses are built with paper thin walls as close to the city centres as possible.
+*   **[[Capitalism]]** - Fat CEOs munching on the marinated ass cheeks of piglets. Ah, such dignified lives we live.
+*   **[[Climate change]]** - Drastically reducing or eliminating industrial slaughter will be necessary to properly manage and/or avoid disasters following climate change.
+*   **[[Cognitive dissonance]]** - A cow is not much different from a dog. A dog is not much different from you. Cognitive dissonance is a powerful weapon against acts of love.
+*   **[[Dealing with death]]** - There is a longer discussion to be had regarding meat eating and dealing with death. That discussion is better had somewhere else since it doesn't apply to industrial scale killing. We must acquire the ability to internalise the deaths and suffering casued by the meat industry. To do that and not drown is difficult. Difficult but necessary. What else can we do? Where else do we think we must go?
+*   **[[Debt]]** - How could we ever begin to repay this debt?
+*   **[[Deforestation]]** - For example, [over 70% of Brazil's deforestation of the Amazon rainforest is driven by cattle ranching](https://ourworldindata.org/drivers-of-deforestation).
+*   **[[Delusional domination of nature]]** - Look out over the world. For all our power, can you see how small we are, how truly powerless we are, keeping not a grain of dignity while only destroying our own inner nature, left with sterile salt flats.
+*   **[[Despair]]** - An existence forcedly placed upon billions of rotting animal carcasses. How can I not despair? If humanity hangs, may it hang with its tippy toes just touching the ground. What sound does a human make? One of despair.
+*   **[[Ecological crisis]]** - Industrial slaughter contributes to our current ecological crises in several ways. Maybe most obviously by replacing living ecosystems with monocultural factories of death.
+*   **[[Educational crisis]]** - Society does its best to keep the truth about slaughter away from most children. I remember visiting a farm with the purpose of learning about raising cattle for meat and milk yet I never got to take a newborn calf from its mother nor shoot it between the eyes and roast it. To be fair, I wouldn't have wanted to. But there is a massive educational chasm between knowing the truth and knowing the terror. Can we at least strive for truth?
+*   **[[Emotional crisis]]** - It becomes emotionally difficult to walk around with the awareness of the incessantly ongoing systematic holocausts.
+*   **[[Energy consumption increasing]]** - We are consuming more and ever more, and meat consumption stemming from the expansion of industrial slaughter globally, when it should decrease or fully cease, is only increasing.
+*   **[[Energy]]** - Industrial slaughter and its energy-related implications clearly illustrate the inefficiency of our efficiency.
+*   **[[Failure to take responsibility]]** - We must and we will be held responsible for the unnecessary suffering and deaths we've caused.
+*   **[[Genetic modification]]** - We keep optimising our systems of energy extraction. One way is through genetically modifying crops and cattle for productivity.
+*   **[[Global supply chains]]** - Planted salmon harvested in Norway, sent to China for processing, packaged as fish sticks in America. Glorious.
+*   **[[Healthcare]]** - What fraction of our health problems come from eating the flesh of animals in distress?
+*   **[[Hedonism]]** - On the train up to Gothenburg I sat next to a group of middle-aged IT-consultants who were heading to a company team building event (yeah, I know...). For three hours all they spoke about was different kinds of beer and different kinds of meat they had consumed. Sad sedentary satires of a viking past, flattened hemorrhoids and pale hairless bellies with crusty navels. Pinnacle of modern masculinity.
+*   **[[Hemispherical asymmetry (Brain)]]** - The left hemisphere sees beings as inanimate, machines, automatons. If they scream they scream because they're programmed to do so. Industrial slaughter, then, simply becomes a machine that disassembles machines to then extract those parts deemed useful to us, the most important machines.
+*   **[[Illusion of competence]]** - I read an article the other day. It discussed some novel research in the fields of AI and organic pig farms. After ten years of analysing the sounds of the pigs through advanced AI models the researchers were surprised to learn that even on organic farms the pigs seemed quite stressed. Funny that. I wonder how many years we'd have to study Hebrew to learn that jews exterminated with organic Zyklon B would be quite stressed as well.
+*   **[[Illusion of no option]]** - We have to eat a lot of meat. Just look at all of us, how fit, ripped, and healthy we all are. To keep that going I need my one chicken per day minimum.
+*   **[[Inequality]]** - First of all there is an inequality in terms of the value of the lives of other animals. Secondly, there is the fact that the Western diet consists of so much meat that it's impossible for the rest of the world to match it.
+*   **[[Insect loss]]** - Industrial slaughter and its many requirements being prioritised over other factors is contributing to insect loss.
+*   **[[Lack of quiet spaces]]** - I can hear them everywhere. It is never quiet. Can you?
+*   **[[Limits to growth]]** - For everyone to eat the amount of meat the average Westerner does we would need more than one Earth.
+*   **[[Malnutrition]]** - [Over 2 billion](https://www.who.int/news/item/06-07-2022-un-report--global-hunger-numbers-rose-to-as-many-as-828-million-in-2021) people are at risk of malnutrition due to food insecurity. [Feeding half the world's grain crop to animals raised for meat, eggs, and milk instead of directly to humans is a significant waste of natural resources, including fossil fuels, water, and land.](https://www.humanesociety.org/sites/default/files/docs/hsus-report-industrialized-animal-agriculture-world-hunger.pdf)
+*   **[[Meat eating]]** - If industrial slaughter disappeared we would drastically reduce our meat consumption, not just out of necessity but from lack of convenience and the reality of it all surfacing.
+*   **[[Mental health]]** - You are what you eat. Trapped, flightless, working beasts of burden, teats swollen, cocks cut off, drooling, terrified, thank God it's kosher.
+*   **[[Mistreatment of animals]]** - Yeah, eh, yep.
+*   **[[Moloch]]** - Moloch thrives best floating in the lee behind the syrupy waves of their ocean of blood.
+*   **[[Monocultures (agriculture)]]** - Efficiency, streamlining, simplifying, optimising, maximising.
+*   **[[Net negative caloric extraction]]** - Every step upward in the nutrition chain loses energy. The only moral responsiblity we have is to learn how to photosynthesise. Or just eat plants. Whatever works for you.
+*   **[[Obesity]]** - I do wonder what fraction of obese people are vegetarian... Industrial slaughter makes meat cheap and available for all. And for those who react to this by saying "but, but, but carbs!". Yeah, yeah, go listen to Joe Rogan or something.
+*   **[[Pandemics]]** - Distressed animals tightly packed is perfect for the spreading of bacteria and viruses.
+*   **[[Populations entering the 'middle class']]** - I suppose being middle class means being able to travel and have bacon for breakfast.
+*   **[[Profit]]** - Industrial slaughter wouldn't be a thing if it wasn't massively profitable.
+*   **[[Sameness]]** - There will be animals all over the world and they will all look the same.
+*   **[[Spiritual metacrisis]]** - You can't be animistic and run industrial slaughterhouses.
+*   **[[Violence]]** - Systematised violence.

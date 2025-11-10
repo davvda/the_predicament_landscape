@@ -1,0 +1,4 @@
+Pirate care
+
+https://monoskop.org/File:Graziano_Mars_Medak_Pirate_Care_Acts_Against_the_Criminalization_of_Solidarity_2025.epub
+

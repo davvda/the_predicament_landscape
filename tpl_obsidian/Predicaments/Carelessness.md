@@ -1,0 +1,31 @@
+**Care has its roots in lamentation, grief, burdens of mind, and concern**. What, then, does it mean to care? Caring, in its most encompassing meaning, is the understanding and internalisation of the losses and deaths of any act or moment, the ambient awareness of the never ceasing songs of lamentation sounding across the world. When we are careless, when we are deaf to these tones, we bull our way through life without regard for neither life nor death, acting the role of the reaper we loathe. Carry the burdens of your mind lightly but, please, carry them with care.
+
+**Outgoing connections:**
+- [[Animal views]]
+- [[Apathy]] - Not to care, not to feel.
+- [[Directionlessness]] - If we don't care, why would our direction matter?
+- [[Educational systems]] - Educational systems follow the principles of industry, meaning they'll have room for about as much care as a car factory. Care becomes an unnatural exception rather than the norm.
+- [[Elderly care]] - Elderly care is often quite careless.
+- [[Evil]]
+- [[Failure to take responsibility]]
+- [[Healthcare]]
+- [[Ignored externalities]]
+- [[Lack of attentiveness]] - We pay attention to what we care about. No care, no attention.
+- [[Lack of compassion]] - Carelessness closes us off from compassion.
+- [[Lack of empathy]] - It also closes us off from empathy.
+- [[Lack of love]] - Love is a verb, something dependent on care, can you love what you don't care about?
+- [[Meaning crisis]]
+- [[Mistreatment of animals]]
+- [[Mistreatment of other humans]]
+- [[No precautionary principle]]
+- [[Predicaments/Parenting|Parenting]] - Certain modern methods of parenting and raising kids explicitly exclude acts of care. Better to create a tough and independent individual than a little bitch requiring constant care.
+- [[Poisoning the water, the earth, the air]]
+- [[Selfishness]] - With an ever decreasing care, the last thing you'll still care about is most likely yourself.
+- [[Sex and sexuality]]
+- [[Suicide]]
+- [[The desacration of all places]] - Carelessness taken far enough leaves nothing to care about.
+- [[Too much speed and noise]]
+- [[Unheeded warnings]]
+- [[Violence]]
+- [[Waste]]
+- [[Yuppie dystopia]] - Dude, it's all just a question of systemic incentives, people don't naturally care about anything so you have to set things up so that things turn out great without anyone having to care, there was a great discussion about this in a Hacker News post, I'll send it to you.
