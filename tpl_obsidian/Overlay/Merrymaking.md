@@ -1,1 +1,0 @@
-> During the darkest days of the AIDS crisis, we buried our friends in the morning, we protested in the afternoon, and we danced all night.

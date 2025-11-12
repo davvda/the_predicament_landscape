@@ -1,6 +1,0 @@
-**Disregard history and you will slowly erase your own future**. History matters greatly. History contains other ways of being, living, thinking, acting, talking, seeing, and perceiving. It provides the richness needed for the emergence of cultures and, further, the cultivation of people. However, it is equally important to learn how to think about history. [One model of historical thinking](https://www.historians.org/research-and-publications/perspectives-on-history/january-2007/what-does-it-mean-to-think-historically) provides five key concepts: change over time, causality, context, complexity, and contingency. Things change in ways we might not understand, even with hindsight, causality chains are seldom linear or simple, everything must be understood in the context of its place and time, everything is always endlessly complex, contingent events, or black swans, are improbable and inevitable at the same time.
-
-**Outgoing connections:**
-*   [[No respect for indigenous wisdom]]
-*   [[Nuclear war]]
-*   [[War]]

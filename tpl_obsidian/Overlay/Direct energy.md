@@ -1,2 +1,0 @@
-Human energy
-Direct solar

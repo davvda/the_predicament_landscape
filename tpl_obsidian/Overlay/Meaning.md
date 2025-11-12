@@ -1,1 +1,0 @@
-> What remains after the fall is a wild mixture of cultural debris, confused and angry people whose certainties have betrayed them, and those forces which were always there, deeper than the foundations of the city walls: **the desire to survive and the desire for meaning**.

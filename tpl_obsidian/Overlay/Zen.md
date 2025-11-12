@@ -1,3 +1,0 @@
-> What we call "I" is just a swinging door which moves when we inhale and when we exhale. When you do something, you should do it with your whole body and mind; you should be concentrated on what you do. You should do it completely, like a good bonfire. You should not be a smoky fire. You should burn yourself completely. If you do not burn yourself completely, a trace of yourself will be left in what you do.
-> 
->  - Shunryu Suzuki

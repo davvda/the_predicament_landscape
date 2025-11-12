@@ -1,1 +1,0 @@
-Solving for pattern

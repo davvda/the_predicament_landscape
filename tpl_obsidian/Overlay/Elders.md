@@ -1,3 +1,0 @@
-> Prefer to be defeated in the presence of the wise than to excel among fools.
-> 
->  - Dogen Zenji

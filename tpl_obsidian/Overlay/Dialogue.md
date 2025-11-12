@@ -1,1 +1,0 @@
-> Concern yourself with what is right rather than who is right.

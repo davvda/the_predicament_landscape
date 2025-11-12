@@ -1,1 +1,0 @@
-We're so tolerant of nonsense - ivan illich
