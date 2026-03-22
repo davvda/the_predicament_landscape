@@ -147,83 +147,74 @@
     </div>
 
     <script>
-        // Load sidebar lists
-        fetch('predicaments-list.html')
-            .then(r => r.text())
-            .then(html => {
-                document.getElementById('predicaments-list').innerHTML = html;
-                // Update links to use hash navigation
-                document.querySelectorAll('#predicaments-list a').forEach(link => {
-                    const href = link.getAttribute('href');
-                    if (href && !href.startsWith('http')) {
-                        link.setAttribute('href', '#' + href.replace('.html', ''));
-                    }
+        function loadSidebar(listId, htmlFile, folder) {
+            fetch(htmlFile)
+                .then(r => r.text())
+                .then(html => {
+                    document.getElementById(listId).innerHTML = html;
+                    document.querySelectorAll(`#${listId} a`).forEach(link => {
+                        const href = link.getAttribute('href');
+                        if (href && !href.startsWith('http')) {
+                            const page = href.replace('.html', '');
+                            link.setAttribute('href', `#${folder}/${page}`);
+                        }
+                    });
                 });
-            });
+        }
 
-        fetch('overlay-list.html')
-            .then(r => r.text())
-            .then(html => {
-                document.getElementById('overlay-list').innerHTML = html;
-                // Update links to use hash navigation
-                document.querySelectorAll('#overlay-list a').forEach(link => {
-                    const href = link.getAttribute('href');
-                    if (href && !href.startsWith('http')) {
-                        link.setAttribute('href', '#' + href.replace('.html', ''));
-                    }
-                });
-            });
+        loadSidebar('predicaments-list', 'predicaments-list.html', 'predicaments');
+        loadSidebar('overlay-list', 'overlay-list.html', 'overlay');
 
-        // Router: Load content based on URL hash
-        function loadContent(page) {
+        function loadContent(hash) {
             const contentDiv = document.getElementById('content');
-            
-            // Default to index if no page specified
-            if (!page || page === '') {
-                page = 'index';
+
+            if (!hash || hash === '') {
+                hash = 'index';
             }
-            
-            // Update document title
-            document.title = page.charAt(0).toUpperCase() + page.slice(1) + ' - The Predicament Landscape';
-            
-            // Load content from content folder
-            fetch(`content/${page}.html`)
+
+            let fetchPath;
+            if (hash.includes('/')) {
+                const [folder, page] = hash.split('/', 2);
+                fetchPath = `content/${folder}/${page}.html`;
+                document.title = `${page} - The Predicament Landscape`;
+            } else {
+                fetchPath = `content/${hash}.html`;
+                document.title = `${hash.charAt(0).toUpperCase() + hash.slice(1)} - The Predicament Landscape`;
+            }
+
+            fetch(fetchPath)
                 .then(response => {
                     if (!response.ok) throw new Error('Page not found');
                     return response.text();
                 })
                 .then(html => {
                     contentDiv.innerHTML = html;
-                    
-                    // Update all internal links in content to use hash navigation
+
                     contentDiv.querySelectorAll('a').forEach(link => {
                         const href = link.getAttribute('href');
                         if (href && href.endsWith('.html') && !href.startsWith('http')) {
-                            link.setAttribute('href', '#' + href.replace('.html', ''));
-                            link.addEventListener('click', (e) => {
+                            const clean = href.replace(/^\.\.\//, '').replace('.html', '');
+                            const resolvedHash = clean.includes('/') ? clean : `predicaments/${clean}`;
+                            link.setAttribute('href', `#${resolvedHash}`);
+                            link.addEventListener('click', e => {
                                 e.preventDefault();
-                                window.location.hash = href.replace('.html', '');
+                                window.location.hash = resolvedHash;
                             });
                         }
                     });
-                    
-                    // Scroll to top
+
                     contentDiv.scrollTop = 0;
                 })
-                .catch(err => {
+                .catch(() => {
                     contentDiv.innerHTML = '<h2>Page Not Found</h2><p>The requested page could not be loaded.</p>';
                 });
         }
 
-        // Handle hash changes (navigation)
         window.addEventListener('hashchange', () => {
-            const page = window.location.hash.slice(1); // Remove the #
-            loadContent(page);
+            loadContent(window.location.hash.slice(1));
         });
 
-        // Load initial content
-        const initialPage = window.location.hash.slice(1) || 'index';
-        loadContent(initialPage);
+        loadContent(window.location.hash.slice(1) || 'index');
     </script>
 </body>
 </html>
