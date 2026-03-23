@@ -155,7 +155,7 @@
                     document.querySelectorAll(`#${listId} a`).forEach(link => {
                         const href = link.getAttribute('href');
                         if (href && !href.startsWith('http')) {
-                            const page = href.replace('.html', '');
+                            const page = href.split('/').pop().replace('.html', '');
                             link.setAttribute('href', `#${folder}/${page}`);
                         }
                     });
