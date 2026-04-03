@@ -29,6 +29,35 @@
             padding: 0 2%;
             z-index: 100;
         }
+
+        .newsletter-form {
+            margin-left: auto;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .newsletter-form input[type="email"] {
+            font-family: inherit;
+            font-size: 14px;
+            padding: 4px 8px;
+            border: 1px solid #353535;
+            background: #FFFFEA;
+            width: 160px;
+        }
+
+        .newsletter-form input[type="submit"] {
+            font-family: inherit;
+            font-size: 14px;
+            padding: 4px 10px;
+            border: 1px solid #353535;
+            background: #FFFFEA;
+            cursor: pointer;
+        }
+
+        .newsletter-form input[type="submit"]:hover {
+            background: rgb(255, 172, 47);
+        }
         
         nav a {
             color: black;
@@ -128,6 +157,11 @@
         <a href="#about">About</a>
         <a href="http://www.punk.ist/">punk.ist</a>
         <a href="https://ko-fi.com/punkistpoet">Donate</a>
+        <form action="https://buttondown.com/api/emails/embed-subscribe/predicamentlandscape" method="post" class="newsletter-form">
+            <strong>Newsletter:</strong>
+            <input type="email" name="email" placeholder="your@email.com" required />
+            <input type="submit" value="Subscribe" />
+        </form>
     </nav>
     
     <div class="container">
