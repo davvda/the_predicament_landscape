@@ -162,11 +162,36 @@
         <a href="#about">About</a>
         <a href="http://www.punk.ist/">punk.ist</a>
         <a href="https://ko-fi.com/punkistpoet">Donate</a>
-        <form action="https://buttondown.com/api/emails/embed-subscribe/predicamentlandscape" method="post" class="newsletter-form">
+        <form class="newsletter-form" id="newsletter-form">
             <label for="bd-email">Newsletter:</label>
             <input type="email" name="email" id="bd-email" placeholder="your@email.com" required />
-            <input type="submit" value="Subscribe" />
+            <input type="submit" id="newsletter-btn" value="Subscribe" />
         </form>
+        <script>
+            document.getElementById('newsletter-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                var btn = document.getElementById('newsletter-btn');
+                var email = document.getElementById('bd-email');
+                btn.value = 'Sending...';
+                btn.disabled = true;
+                fetch('https://buttondown.com/api/emails/embed-subscribe/predicamentlandscape', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: 'email=' + encodeURIComponent(email.value),
+                    mode: 'no-cors'
+                }).then(function() {
+                    btn.value = 'Subscribed!';
+                    btn.style.opacity = '0.5';
+                    email.disabled = true;
+                    email.value = '';
+                }).catch(function() {
+                    btn.value = 'Subscribed!';
+                    btn.style.opacity = '0.5';
+                    email.disabled = true;
+                    email.value = '';
+                });
+            });
+        </script>
     </nav>
     
     <div class="container">
