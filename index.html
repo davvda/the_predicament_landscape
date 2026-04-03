@@ -35,11 +35,16 @@
             display: flex;
             align-items: center;
             gap: 6px;
+            font-size: 20px;
+        }
+
+        .newsletter-form label {
+            color: black;
         }
 
         .newsletter-form input[type="email"] {
             font-family: inherit;
-            font-size: 14px;
+            font-size: 16px;
             padding: 4px 8px;
             border: 1px solid #353535;
             background: #FFFFEA;
@@ -48,7 +53,7 @@
 
         .newsletter-form input[type="submit"] {
             font-family: inherit;
-            font-size: 14px;
+            font-size: 16px;
             padding: 4px 10px;
             border: 1px solid #353535;
             background: #FFFFEA;
@@ -158,8 +163,8 @@
         <a href="http://www.punk.ist/">punk.ist</a>
         <a href="https://ko-fi.com/punkistpoet">Donate</a>
         <form action="https://buttondown.com/api/emails/embed-subscribe/predicamentlandscape" method="post" class="newsletter-form">
-            <strong>Newsletter:</strong>
-            <input type="email" name="email" placeholder="your@email.com" required />
+            <label for="bd-email">Newsletter:</label>
+            <input type="email" name="email" id="bd-email" placeholder="your@email.com" required />
             <input type="submit" value="Subscribe" />
         </form>
     </nav>
