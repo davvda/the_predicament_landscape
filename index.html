@@ -159,6 +159,30 @@
             z-index: 10;
         }
 
+        .sidebar li {
+            position: relative;
+        }
+
+        .sidebar .sidebar-active::after {
+            content: '\25C0';
+            position: absolute;
+            right: -1em;
+            top: 0;
+            color: black;
+        }
+
+        .sidebar-right li {
+            position: relative;
+        }
+
+        .sidebar-right .sidebar-active::before {
+            content: '\25B6';
+            position: absolute;
+            left: -1.4em;
+            top: 0;
+            color: black;
+        }
+
         @media(max-width: 1000px) {
             .sidebar, .sidebar-right { display: none; }
             main { width: 100%; border-right: none; }
@@ -329,11 +353,21 @@
 
                     document.querySelector('main').scrollTop = 0;
                     updatePageNav(hash);
+                    highlightSidebarItem(hash);
                 })
                 .catch(() => {
                     contentDiv.innerHTML = '<h2>Page Not Found</h2><p>The requested page could not be loaded.</p>';
                     updatePageNav(hash);
                 });
+        }
+
+        function highlightSidebarItem(hash) {
+            document.querySelectorAll('.sidebar-active').forEach(el => el.classList.remove('sidebar-active'));
+            const target = document.querySelector(`a[href="#${CSS.escape(hash)}"]`);
+            if (target) {
+                target.closest('li')?.classList.add('sidebar-active');
+                target.scrollIntoView({ block: 'center', behavior: 'smooth' });
+            }
         }
 
         window.addEventListener('hashchange', () => {
