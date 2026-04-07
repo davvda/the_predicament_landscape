@@ -149,6 +149,16 @@
             color: #717171;
         }
         
+        .page-nav {
+            position: sticky;
+            top: 0;
+            display: flex;
+            justify-content: space-between;
+            padding: 0.5em 0;
+            background-color: #FFFFEA;
+            z-index: 10;
+        }
+
         @media(max-width: 1000px) {
             .sidebar, .sidebar-right { display: none; }
             main { width: 100%; border-right: none; }
@@ -200,8 +210,14 @@
             <ol id="predicaments-list"></ol>
         </aside>
         
-        <main id="content">
-            <p>Loading...</p>
+        <main>
+            <div id="page-nav" class="page-nav">
+                <a id="prev-btn" href="#">← Previous</a>
+                <a id="next-btn" href="#">Next →</a>
+            </div>
+            <div id="content">
+                <p>Loading...</p>
+            </div>
         </main>
         
         <aside class="sidebar-right">
@@ -211,8 +227,10 @@
     </div>
 
     <script>
+        let pageSequence = [];
+
         function loadSidebar(listId, htmlFile, folder) {
-            fetch(htmlFile)
+            return fetch(htmlFile)
                 .then(r => r.text())
                 .then(html => {
                     document.getElementById(listId).innerHTML = html;
@@ -226,8 +244,48 @@
                 });
         }
 
-        loadSidebar('predicaments-list', 'predicaments-list.html', 'predicaments');
-        loadSidebar('overlay-list', 'overlay-list.html', 'overlay');
+        function buildPageSequence() {
+            pageSequence = ['index'];
+            document.querySelectorAll('#predicaments-list a').forEach(link => {
+                const href = link.getAttribute('href');
+                if (href && href.startsWith('#')) {
+                    pageSequence.push(href.slice(1));
+                }
+            });
+            document.querySelectorAll('#overlay-list a').forEach(link => {
+                const href = link.getAttribute('href');
+                if (href && href.startsWith('#')) {
+                    pageSequence.push(href.slice(1));
+                }
+            });
+            updatePageNav(window.location.hash.slice(1) || 'index');
+        }
+
+        function updatePageNav(currentHash) {
+            if (!currentHash) currentHash = 'index';
+            const prevBtn = document.getElementById('prev-btn');
+            const nextBtn = document.getElementById('next-btn');
+            const idx = pageSequence.indexOf(currentHash);
+
+            if (idx <= 0) {
+                prevBtn.style.visibility = 'hidden';
+            } else {
+                prevBtn.style.visibility = 'visible';
+                prevBtn.href = '#' + pageSequence[idx - 1];
+            }
+
+            if (idx < 0 || idx >= pageSequence.length - 1) {
+                nextBtn.style.visibility = 'hidden';
+            } else {
+                nextBtn.style.visibility = 'visible';
+                nextBtn.href = '#' + pageSequence[idx + 1];
+            }
+        }
+
+        Promise.all([
+            loadSidebar('predicaments-list', 'predicaments-list.html', 'predicaments'),
+            loadSidebar('overlay-list', 'overlay-list.html', 'overlay')
+        ]).then(buildPageSequence);
 
         function loadContent(hash) {
             const contentDiv = document.getElementById('content');
@@ -267,10 +325,12 @@
                         }
                     });
 
-                    contentDiv.scrollTop = 0;
+                    document.querySelector('main').scrollTop = 0;
+                    updatePageNav(hash);
                 })
                 .catch(() => {
                     contentDiv.innerHTML = '<h2>Page Not Found</h2><p>The requested page could not be loaded.</p>';
+                    updatePageNav(hash);
                 });
         }
 
