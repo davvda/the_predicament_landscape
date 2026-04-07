@@ -94,7 +94,7 @@
         main {
             width: 50%;
             overflow-y: auto;
-            padding: 2em;
+            padding: 0 2em 2em 2em;
             border-right: 2px solid #353535;
         }
         
@@ -263,6 +263,7 @@
 
         function updatePageNav(currentHash) {
             if (!currentHash) currentHash = 'index';
+            currentHash = decodeURIComponent(currentHash);
             const prevBtn = document.getElementById('prev-btn');
             const nextBtn = document.getElementById('next-btn');
             const idx = pageSequence.indexOf(currentHash);
@@ -290,6 +291,7 @@
         function loadContent(hash) {
             const contentDiv = document.getElementById('content');
 
+            hash = decodeURIComponent(hash || '');
             if (!hash || hash === '') {
                 hash = 'index';
             }
